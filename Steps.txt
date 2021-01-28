@@ -1,0 +1,5 @@
+cd /mnt/d/vendor_hardware_overlay-master/build/
+./build.sh
+sudo apt-get update
+sudo apt install openjdk-11-jre-headless
+./build.sh

@@ -1,0 +1,10 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <dimen name="status_bar_height_portrait">100px</dimen>
+    <dimen name="status_bar_height_landscape">100px</dimen>
+	<dimen name="rounded_corner_radius">70px</dimen>
+	
+	<string name="config_icon_mask" translatable="false">"M50 0A50 50,0,1,1,50 100A50 50,0,1,1,50 0"</string>
+	<bool name="config_useRoundIcon">true</bool>
+    <dimen name="config_dialogCornerRadius">20dp</dimen>
+    <dimen name="config_bottomDialogCornerRadius">20dp</dimen>
+</resources>
