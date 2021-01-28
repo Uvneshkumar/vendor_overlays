@@ -1,0 +1,8 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string translatable="false" name="config_mainBuiltInDisplayCutout">M 0,0 H -10 V 26 H 10 V 0 H 0 Z @dp</string>
+    <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
+    <dimen name="status_bar_height_portrait">100px</dimen>
+    <dimen name="status_bar_height_landscape">100px</dimen>
+    <dimen name="rounded_corner_radius">70px</dimen>
+</resources>
+
