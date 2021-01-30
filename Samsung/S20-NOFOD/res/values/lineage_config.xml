@@ -2,4 +2,6 @@
 <resources>
     <color name="config_fodColor">#00ffffff</color>
     <color name="config_fodColorBackground">#00ffffff</color>
+    <dimen name="status_bar_padding_start">20dp</dimen>
+    <dimen name="status_bar_padding_end">20dp</dimen>
 </resources>
