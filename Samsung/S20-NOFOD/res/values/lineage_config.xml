@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="config_fodColor">#00ffffff</color>
+    <color name="config_fodColorBackground">#00ffffff</color>
+</resources>

@@ -66,6 +66,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-s20 \
 	treble-overlay-samsung-s20-fhd \
 	treble-overlay-samsung-s20-one-ui \
+	treble-overlay-samsung-s20-nofod \
 	treble-overlay-samsung-s9-systemui \
 	treble-overlay-sharp-s2 \
 	treble-overlay-sony-XZ3 \
