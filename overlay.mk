@@ -59,6 +59,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oneplus-op6t \
 	treble-overlay-oneplus-op6t-systemui \
 	treble-overlay-oneplus-7pro-round \
+	treble-overlay-oneplus-nofod \
 	treble-overlay-razer-cheryl \
 	treble-overlay-realme-x2pro \
 	treble-overlay-samsung-a30 \
