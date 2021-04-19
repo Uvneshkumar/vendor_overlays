@@ -5,4 +5,6 @@
     <dimen name="status_bar_padding_start">20dp</dimen>
     <dimen name="status_bar_padding_end">20dp</dimen>
     <dimen name="status_bar_header_height_keyguard">0dp</dimen>
+    <integer name="quick_settings_max_rows">3</integer>
+    <integer name="quick_settings_num_columns">3</integer>
 </resources>
