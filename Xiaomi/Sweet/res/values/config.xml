@@ -1,8 +1,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string translatable="false" name="config_mainBuiltInDisplayCutout">M 0,0 H -10 V 26 H 10 V 0 H 0 Z @dp</string>
-    <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
+    <string name="config_mainBuiltInDisplayCutout">M 27.85627,51.452695 A 27.291809,27.291816 0 0 1 0.56444643,78.744551 27.291809,27.291816 0 0 1 -26.727374,51.452695 27.291809,27.291816 0 0 1 0.56444643,24.16087 27.291809,27.291816 0 0 1 27.85627,51.452695 Z</string>
+    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0.0,0.0 h 100 v 100 h -100 Z</string>
+    <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
     <dimen name="status_bar_height_portrait">100px</dimen>
     <dimen name="status_bar_height_landscape">100px</dimen>
-    <dimen name="rounded_corner_radius">100px</dimen>
 </resources>
 
