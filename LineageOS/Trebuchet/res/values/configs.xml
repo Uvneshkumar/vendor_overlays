@@ -1,0 +1,3 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <dimen name="bg_round_rect_radius">24dp</dimen>
+</resources>
