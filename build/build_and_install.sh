@@ -1,4 +1,4 @@
-adb connect 192.168.1.58
+adb connect 192.168.1.73
 ./build.sh
-adb install -r treble-overlay-xiaomi-sweet.apk
+adb install -r treble-overlay-samsung-s20.apk
 

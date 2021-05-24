@@ -5,5 +5,14 @@
     <dimen name="status_bar_height_portrait">100px</dimen>
     <dimen name="status_bar_height_landscape">100px</dimen>
     <integer name="config_screenBrightnessDoze">17</integer>
+
+    <dimen name="rounded_corner_radius">50px</dimen>	
+    <string name="config_icon_mask" translatable="false">"M50 0A50 50,0,1,1,50 100A50 50,0,1,1,50 0"</string>
+    <bool name="config_useRoundIcon">true</bool>
+    <dimen name="config_dialogCornerRadius">20dp</dimen>
+
+    <color name="accent_device_default_dark">#ff4c8bf5</color>
+    <color name="accent_device_default_light">#ff4c8bf5</color>
+    <color name="accent_device_default_700">#ff4c8bf5</color>
 </resources>
 

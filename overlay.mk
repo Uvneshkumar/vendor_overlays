@@ -111,6 +111,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redmis2 \
 	treble-overlay-xiaomi-sweet \
 	treble-overlay-treuchet \
+	treble-overlay-xiaomi-miui \
 
 
 PRODUCT_PACKAGES += \
