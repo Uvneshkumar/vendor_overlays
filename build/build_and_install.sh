@@ -1,4 +1,4 @@
-adb connect 192.168.1.73
+adb connect 192.168.1.72
 ./build.sh
-adb install -r treble-overlay-samsung-s20.apk
+adb install -r treble-overlay-oneplus-launcher-blue.apk
 

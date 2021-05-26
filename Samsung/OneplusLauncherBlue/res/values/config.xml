@@ -47,4 +47,18 @@
     <color name="teal_500">#448aff</color>
     <color name="teal_700">#448aff</color>
     <color name="teal_800">#448aff</color>
+
+    <color name="all_apps_container_color">#ffffff</color>
+    <color name="all_apps_container_color_simplify">#ffffff</color>
+    <color name="all_apps_container_dark_color">#171717</color>
+    <color name="all_apps_container_dark_color_simplify">#171717</color>
+
+
+    <dimen name="dynamic_grid_hotseat_bottom_padding">15.0dip</dimen>
+
+
+    <dimen name="page_indicator_dot_size">0.0000001dip</dimen>
+    <dimen name="dynamic_grid_page_indicator_height">0.0000001dip</dimen>
+    <dimen name="qs_page_indicator_height">0.0000001dip</dimen>
+
 </resources>
