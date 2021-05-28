@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="status_bar_padding_start">5dp</dimen>
-    <dimen name="status_bar_padding_end">5dp</dimen>
-    <dimen name="qs_tile_label_indicator_size">0dp</dimen>
-</resources>
