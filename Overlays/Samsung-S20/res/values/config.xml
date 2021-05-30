@@ -7,7 +7,5 @@
     <integer name="config_screenBrightnessDoze">17</integer>
     <bool name="config_useRoundIcon">true</bool>
     <dimen name="config_dialogCornerRadius">20dp</dimen>
-
-    <color name="black">#171717</color>
 </resources>
 
