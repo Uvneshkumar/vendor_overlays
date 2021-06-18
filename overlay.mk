@@ -116,6 +116,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-treuchet \
 	treble-overlay-xiaomi-miui \
 	treble-overlay-black-as-gray \
+	treble-overlay-midnightblue \
+	treble-overlay-charcoalblack \
 
 
 PRODUCT_PACKAGES += \
