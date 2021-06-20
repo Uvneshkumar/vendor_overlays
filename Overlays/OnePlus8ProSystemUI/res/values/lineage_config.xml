@@ -8,7 +8,7 @@
     <!--dimen name="heads_up_status_bar_padding_start">0dp</dimen-->
 	
     <dimen name="status_bar_padding_start">10dp</dimen>
-    <dimen name="status_bar_padding_end">15dp</dimen>
+    <dimen name="status_bar_padding_end">25dp</dimen>
 	<dimen name="status_bar_header_height_keyguard">155px</dimen>
 	
 	<dimen name="status_bar_left_clock_starting_padding">18dp</dimen>

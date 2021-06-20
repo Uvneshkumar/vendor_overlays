@@ -10,4 +10,6 @@
 	<dimen name="quick_qs_offset_height">155px</dimen>
 	
 	<dimen name="rounded_corner_radius_adjustment">0px</dimen>
+	
+	<integer name="config_screenBrightnessDoze">17</integer>
 </resources>
