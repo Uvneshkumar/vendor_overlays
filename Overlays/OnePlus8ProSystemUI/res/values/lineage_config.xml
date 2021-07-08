@@ -7,7 +7,7 @@
     <dimen name="rounded_corner_content_padding">60px</dimen>
     <!--dimen name="heads_up_status_bar_padding_start">0dp</dimen-->
 	
-    <dimen name="status_bar_padding_start">10dp</dimen>
+    <dimen name="status_bar_padding_start">0dp</dimen>
     <dimen name="status_bar_padding_end">25dp</dimen>
 	<dimen name="status_bar_header_height_keyguard">155px</dimen>
 	
@@ -27,4 +27,8 @@
 	<dimen name="config_rounded_mask_size">125px</dimen>
 	
 	<color name="config_fodColorBackground">#00ffffff</color>
+	
+    <!-- Volume panel -->
+    <dimen name="volume_dialog_panel_transparent_padding_horizontal">20dp</dimen>
+
 </resources>
