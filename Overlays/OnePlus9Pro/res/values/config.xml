@@ -1,0 +1,29 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <dimen name="rounded_corner_radius">125px</dimen>
+    <!--dimen name="config_dialogCornerRadius">20dp</dimen-->
+	<dimen name="status_bar_height">160px</dimen>
+	<dimen name="status_bar_height_portrait">160px</dimen>
+    <dimen name="status_bar_height_landscape">160px</dimen>
+    
+	<string translatable="false" name="config_mainBuiltInDisplayCutout">
+        M 154,83
+        M 111,83
+        A 43,43 0 1,0 197,83
+        A 43,43 0 1,0 111,83
+        Z
+        @left
+    </string>
+	<string translatable="false" name="config_mainBuiltInDisplayCutoutRectApproximation">
+        M 0,0
+        H 236
+        V 126
+        H 0
+        Z
+        @left
+    </string>
+    <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
+	
+	<dimen name="quick_qs_offset_height">160px</dimen>
+	
+	<dimen name="rounded_corner_radius_adjustment">0px</dimen>
+</resources>
