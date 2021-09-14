@@ -27,6 +27,7 @@
 	<dimen name="config_rounded_mask_size">125px</dimen>
 	
 	<color name="config_fodColorBackground">#00ffffff</color>
+	<color name="biometric_dialog_gray">#00ffffff</color>
 	
     <!-- Volume panel -->
     <dimen name="volume_dialog_panel_transparent_padding_horizontal">20dp</dimen>

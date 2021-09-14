@@ -18,7 +18,7 @@
         package="com.uvnesh.charcoalblack"
         android:versionCode="1"
         android:versionName="1.0">
-    <overlay android:targetPackage="android"
+    <overlay android:targetPackage="com.android.systemui"
             android:priority="1"/>
 
     <application android:label="@string/display_cutout_emulation_overlay" android:hasCode="false"/>
