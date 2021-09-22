@@ -7,6 +7,8 @@
     <dimen name="status_bar_height_landscape">115px</dimen>
     <dimen name="rounded_corner_radius">100px</dimen>
 	
+	<bool name="config_lidControlsSleep">true</bool>
+	
     <!--string name="config_icon_mask" translatable="false">"M50 0A50 50,0,1,1,50 100A50 50,0,1,1,50 0"</string>
     <bool name="config_useRoundIcon">true</bool>
     <dimen name="config_dialogCornerRadius">25dp</dimen-->
