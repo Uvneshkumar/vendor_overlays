@@ -9,4 +9,5 @@
     <integer name="quick_settings_num_columns">3</integer>
     <dimen name="rounded_corner_content_padding">60px</dimen>
     <dimen name="status_bar_left_clock_starting_padding">25dp</dimen>
+	<dimen name="volume_dialog_panel_transparent_padding_horizontal">20dp</dimen>
 </resources>
