@@ -1,0 +1,13 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string translatable="false" name="config_mainBuiltInDisplayCutout">M 0,0 H -10 V 115 H 10 V 0 H 0 Z</string>
+    <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
+
+    <dimen name="status_bar_height">115px</dimen>
+    <dimen name="status_bar_height_portrait">115px</dimen>
+    <dimen name="status_bar_height_landscape">115px</dimen>
+    <dimen name="rounded_corner_radius">100px</dimen>
+	
+    <!--string name="config_icon_mask" translatable="false">"M50 0A50 50,0,1,1,50 100A50 50,0,1,1,50 0"</string>
+    <bool name="config_useRoundIcon">true</bool>
+    <dimen name="config_dialogCornerRadius">25dp</dimen-->
+</resources>

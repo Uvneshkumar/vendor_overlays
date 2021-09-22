@@ -74,6 +74,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-s20-fhd \
 	treble-overlay-samsung-s20-one-ui \
 	treble-overlay-samsung-flip-one-ui \
+	treble-overlay-samsung-flip-aosp \
 	treble-overlay-samsung-s20-nofod \
 	treble-overlay-samsung-s20-one-ui-samsungy \
 	treble-overlay-oneplus-launcher-blue \
