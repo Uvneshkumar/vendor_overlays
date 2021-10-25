@@ -31,5 +31,7 @@
 	
     <!-- Volume panel -->
     <dimen name="volume_dialog_panel_transparent_padding_horizontal">20dp</dimen>
+	
+	<dimen name="physical_power_button_center_screen_location_y">1250px</dimen>
 
 </resources>
