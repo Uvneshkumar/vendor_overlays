@@ -2,17 +2,10 @@
     <string name="config_mainBuiltInDisplayCutout">M 27.85627,51.452695 A 27.291809,27.291816 0 0 1 0.56444643,78.744551 27.291809,27.291816 0 0 1 -26.727374,51.452695 27.291809,27.291816 0 0 1 0.56444643,24.16087 27.291809,27.291816 0 0 1 27.85627,51.452695 Z</string>
     <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0.0,0.0 h 100 v 100 h -100 Z</string>
     <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
+	<dimen name="status_bar_height">100px</dimen>
     <dimen name="status_bar_height_portrait">100px</dimen>
     <dimen name="status_bar_height_landscape">100px</dimen>
     <integer name="config_screenBrightnessDoze">17</integer>
-
-    <dimen name="rounded_corner_radius">50px</dimen>	
-    <string name="config_icon_mask" translatable="false">"M50 0A50 50,0,1,1,50 100A50 50,0,1,1,50 0"</string>
-    <bool name="config_useRoundIcon">true</bool>
-    <dimen name="config_dialogCornerRadius">20dp</dimen>
-
-    <color name="accent_device_default_dark">#ff4c8bf5</color>
-    <color name="accent_device_default_light">#ff4c8bf5</color>
-    <color name="accent_device_default_700">#ff4c8bf5</color>
+    <dimen name="rounded_corner_radius">105px</dimen>
+	<dimen name="quick_qs_offset_height">100px</dimen>
 </resources>
-

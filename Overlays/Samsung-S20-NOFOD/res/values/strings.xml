@@ -16,6 +16,6 @@
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="display_cutout_emulation_overlay">Uvnesh\'s S20 Overlay</string>
+    <string name="display_cutout_emulation_overlay">Uvnesh\'s SystemUI Overlay</string>
 
 </resources>
