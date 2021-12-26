@@ -1,5 +1,11 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="config_mainBuiltInDisplayCutout">M 27.85627,51.452695 A 27.291809,27.291816 0 0 1 0.56444643,78.744551 27.291809,27.291816 0 0 1 -26.727374,51.452695 27.291809,27.291816 0 0 1 0.56444643,24.16087 27.291809,27.291816 0 0 1 27.85627,51.452695 Z</string>
+	<string translatable="false" name="config_mainBuiltInDisplayCutout">
+        M -23,52
+        M 23,52
+        A 23,23 0 1,0 -23,52
+        A 23,23 0 1,0 23,52
+        Z
+    </string>
     <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0.0,0.0 h 100 v 100 h -100 Z</string>
     <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
 	<dimen name="status_bar_height">100px</dimen>
