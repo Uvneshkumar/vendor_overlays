@@ -10,6 +10,7 @@
 	<!--dimen name="status_bar_left_clock_starting_padding">18dp</dimen-->
 	<color name="status_bar_carrier_color">#00ffffff</color>
 	<dimen name="system_icons_keyguard_padding_end">900000.0dip</dimen>
+	<dimen name="status_carrierinfo_margin_side">900000.0dip</dimen>
     <dimen name="keyguard_carrier_text_margin">90000.0dip</dimen>
     <dimen name="multi_user_switch_keyguard_margin">90000.0dip</dimen>
     <dimen name="multi_user_avatar_keyguard_size">0.0dip</dimen>
@@ -25,8 +26,8 @@
     <!-- Volume panel -->
     <dimen name="volume_dialog_panel_transparent_padding_horizontal">20dp</dimen>
 	
-	<!-- TO CHANGE -->
+	<!-- TO CHANGE -->	
 	<dimen name="status_bar_header_height_keyguard">100px</dimen>	
-	<dimen name="physical_power_button_center_screen_location_y">1080px</dimen>
-	<dimen name="physical_fingerprint_sensor_center_screen_location_y">1080px</dimen>
+	<dimen name="physical_power_button_center_screen_location_y">970px</dimen>
+	<dimen name="physical_fingerprint_sensor_center_screen_location_y">610px</dimen>
 </resources>
