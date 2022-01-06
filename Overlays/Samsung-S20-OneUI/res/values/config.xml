@@ -1,9 +1,4 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
-	<string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0.0,0.0 h 100 v 100 h -100 Z</string>
-	<dimen name="status_bar_height">100px</dimen>
-    <dimen name="status_bar_height_portrait">100px</dimen>
-    <dimen name="status_bar_height_landscape">100px</dimen>
     <dimen name="rounded_corner_radius">50px</dimen>
     <dimen name="rounded_corner_radius_top">50px</dimen>
     <dimen name="rounded_corner_radius_bottom">50px</dimen>
