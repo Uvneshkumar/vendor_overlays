@@ -2,7 +2,7 @@
     <dimen name="rounded_corner_radius">50px</dimen>
     <dimen name="rounded_corner_radius_top">50px</dimen>
     <dimen name="rounded_corner_radius_bottom">50px</dimen>
-    <string name="config_icon_mask" translatable="false">"M50 0A50 50,0,1,1,50 100A50 50,0,1,1,50 0"</string>
-    <bool name="config_useRoundIcon">true</bool>
+    <!--string name="config_icon_mask" translatable="false">"M50 0A50 50,0,1,1,50 100A50 50,0,1,1,50 0"</string>
+    <bool name="config_useRoundIcon">true</bool-->
     <dimen name="config_dialogCornerRadius">20dp</dimen>
 </resources>
