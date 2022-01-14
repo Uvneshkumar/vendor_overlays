@@ -18,5 +18,7 @@
 	<dimen name="rounded_corner_radius_bottom_adjustment">0px</dimen>
 	<dimen name="rounded_corner_radius_top">0px</dimen>
 	<dimen name="rounded_corner_radius_top_adjustment">0px</dimen>
-	<dimen name="quick_qs_offset_height">100px</dimen>
+	
+	<!-- status var height + 28px -->
+	<dimen name="quick_qs_offset_height">128px</dimen>
 </resources>
