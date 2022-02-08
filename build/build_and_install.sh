@@ -11,4 +11,8 @@ adb push treble-overlay-samsung-s21-oneui-systemui.apk /sdcard/
 adb shell su -c mv /sdcard/treble-overlay-samsung-s21-oneui-systemui.apk /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-samsung-s21-oneui-systemui.apk
 adb shell su -c chmod 0644 /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-samsung-s21-oneui-systemui.apk
 
+adb push treble-overlay-round-icon.apk /sdcard/
+adb shell su -c mv /sdcard/treble-overlay-round-icon.apk /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-round-icon.apk
+adb shell su -c chmod 0644 /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-round-icon.apk
+
 adb reboot

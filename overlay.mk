@@ -124,6 +124,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-black-as-gray \
 	treble-overlay-midnightblue \
 	treble-overlay-charcoalblack \
+	treble-overlay-round-icon \
 
 
 PRODUCT_PACKAGES += \

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="config_icon_mask" translatable="false">"M50 0A50 50,0,1,1,50 100A50 50,0,1,1,50 0"</string>
+	<string name="display_cutout_emulation_overlay">Uvnesh\'s Round Icon Overlay</string>
+</resources>
