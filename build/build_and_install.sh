@@ -1,18 +1,29 @@
-adb connect 192.168.1.47
+adb connect 192.168.1.14
 ./build.sh
 #adb install -r treble-overlay-xiaomi-sweet.apk
 #adb install -r treble-overlay-samsung-s20-one-ui.apk
 
-adb push treble-overlay-samsung-s21-oneui.apk /sdcard/
-adb shell su -c mv /sdcard/treble-overlay-samsung-s21-oneui.apk /data/adb/modules/quickstepswitcher/system/product/overlay/framework-res__auto_generated_rro_product.apk
-adb shell su -c chmod 0644 /data/adb/modules/quickstepswitcher/system/product/overlay/framework-res__auto_generated_rro_product.apk
+adb install -r treble-overlay-samsung-tabs7plus-oneui.apk
+adb install -r treble-overlay-samsung-tabs7plus-oneui-systemui.apk
 
-adb push treble-overlay-samsung-s21-oneui-systemui.apk /sdcard/
-adb shell su -c mv /sdcard/treble-overlay-samsung-s21-oneui-systemui.apk /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-samsung-s21-oneui-systemui.apk
-adb shell su -c chmod 0644 /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-samsung-s21-oneui-systemui.apk
+#adb push treble-overlay-samsung-s21-oneui.apk /sdcard/
+#adb shell su -c mv /sdcard/treble-overlay-samsung-s21-oneui.apk /data/adb/modules/quickstepswitcher/system/product/overlay/framework-res__auto_generated_rro_product.apk
+#adb shell su -c chmod 0644 /data/adb/modules/quickstepswitcher/system/product/overlay/framework-res__auto_generated_rro_product.apk
 
-adb push treble-overlay-round-icon.apk /sdcard/
-adb shell su -c mv /sdcard/treble-overlay-round-icon.apk /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-round-icon.apk
-adb shell su -c chmod 0644 /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-round-icon.apk
+#adb push treble-overlay-samsung-s21-oneui-systemui.apk /sdcard/
+#adb shell su -c mv /sdcard/treble-overlay-samsung-s21-oneui-systemui.apk /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-samsung-s21-oneui-systemui.apk
+#adb shell su -c chmod 0644 /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-samsung-s21-oneui-systemui.apk
 
-adb reboot
+#adb push treble-overlay-round-icon.apk /sdcard/
+#adb shell su -c mv /sdcard/treble-overlay-round-icon.apk /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-round-icon.apk
+#adb shell su -c chmod 0644 /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-round-icon.apk
+
+#adb push treble-overlay-samsung-tabs7plus-oneui.apk /sdcard/
+#adb shell su -c mv /sdcard/treble-overlay-samsung-tabs7plus-oneui.apk /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-samsung-tabs7plus-oneui.apk
+#adb shell su -c chmod 0644 /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-samsung-tabs7plus-oneui.apk
+
+#adb push treble-overlay-samsung-tabs7plus-oneui-systemui.apk /sdcard/
+#adb shell su -c mv /sdcard/treble-overlay-samsung-tabs7plus-oneui-systemui.apk /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-samsung-tabs7plus-oneui-systemui.apk
+#adb shell su -c chmod 0644 /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-samsung-tabs7plus-oneui-systemui.apk
+
+#adb reboot

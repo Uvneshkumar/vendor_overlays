@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<dimen name="config_dialogCornerRadius">20dp</dimen>
+	<dimen name="status_bar_height">75.0px</dimen>
+    <dimen name="status_bar_height_portrait">75.0px</dimen>
+    <dimen name="status_bar_height_landscape">75.0px</dimen>
+	<dimen name="quick_qs_offset_height">175px</dimen>
+	
+	<dimen name="rounded_corner_radius">16px</dimen>
+    <dimen name="rounded_corner_radius_top">16px</dimen>
+    <dimen name="rounded_corner_radius_bottom">16px</dimen>
+	
+	<dimen name="status_bar_indicator_corner_padding">100.0px</dimen>
+	
+</resources>
