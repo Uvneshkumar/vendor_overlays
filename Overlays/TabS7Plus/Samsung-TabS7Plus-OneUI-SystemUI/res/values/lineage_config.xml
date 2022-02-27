@@ -11,8 +11,8 @@
     <dimen name="multi_user_switch_keyguard_margin">90000.0dip</dimen>
     <dimen name="multi_user_avatar_keyguard_size">0.0dip</dimen>
     <dimen name="system_icons_super_container_margin_start">900000.0dip</dimen>
-    <dimen name="keyguard_indication_margin_bottom">50.0dip</dimen>
-	
+    
+	<dimen name="keyguard_indication_margin_bottom">200.0dip</dimen>
 	<dimen name="status_bar_header_height_keyguard">75px</dimen>	
 	
 	<!--dimen name="physical_power_button_center_screen_location_y">970px</dimen>
