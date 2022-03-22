@@ -10,4 +10,5 @@
 	<dimen name="status_bar_indicator_corner_padding">20.0px</dimen>
 	<string name="config_mainBuiltInDisplayCutout">M 0.0,0.0 h 100 v 100 h -100 Z</string>
 	<string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0.0,0.0 h 100 v 100 h -100 Z</string>
+	<integer name="config_screenBrightnessDoze">17</integer>
 </resources>
