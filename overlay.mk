@@ -125,6 +125,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-xiaomi-redminote8pro \
 	treble-overlay-xiaomi-redmis2 \
 	treble-overlay-xiaomi-sweet \
+	treble-overlay-xiaomi-sweet-systemui \
 	treble-overlay-treuchet \
 	treble-overlay-xiaomi-miui \
 	treble-overlay-black-as-gray \
