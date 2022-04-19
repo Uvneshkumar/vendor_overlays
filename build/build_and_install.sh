@@ -1,10 +1,10 @@
-adb connect 192.168.1.5
+adb connect 192.168.1.30
 ./build.sh
 #adb install -r treble-overlay-xiaomi-sweet.apk
 #adb install -r treble-overlay-samsung-s20-one-ui.apk
 
-adb install -r treble-overlay-xiaomi-sweet.apk
-adb install -r treble-overlay-xiaomi-sweet-systemui.apk
+adb install -r treble-overlay-oneplus-9pro.apk
+adb install -r treble-overlay-oneplus-9pro-systemui.apk
 #adb install -r treble-overlay-samsung-s22-oneui-systemui.apk
 
 #adb push treble-overlay-samsung-s22-oneui.apk /sdcard/
