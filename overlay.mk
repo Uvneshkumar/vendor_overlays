@@ -80,8 +80,10 @@ PRODUCT_PACKAGES += \
 	treble-overlay-samsung-s21-oneui \
 	treble-overlay-samsung-s21-oneui-systemui \
 	treble-overlay-samsung-s22-oneui \
+	treble-overlay-samsung-s22ultra-oneui \
 	treble-overlay-samsung-s22-aosp \
 	treble-overlay-samsung-s22-oneui-systemui \
+	treble-overlay-samsung-s22ultra-oneui-systemui \
 	treble-overlay-samsung-tabs7plus-oneui \
 	treble-overlay-samsung-tabs7plus-aosp \
 	treble-overlay-samsung-tabs7plus-oneui-systemui \
