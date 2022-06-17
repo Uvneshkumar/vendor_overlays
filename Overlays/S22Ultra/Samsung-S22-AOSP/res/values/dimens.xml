@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="config_dialogCornerRadius">20dp</dimen>
+	<dimen name="status_bar_height">124.0px</dimen>
+    <dimen name="status_bar_height_portrait">124.0px</dimen>
+    <dimen name="status_bar_height_landscape">124.0px</dimen>
+	<dimen name="rounded_corner_radius">4.0dip</dimen>
+    <dimen name="rounded_corner_radius_top">4.0dip</dimen>
+    <dimen name="rounded_corner_radius_bottom">4.0dip</dimen>
+	<dimen name="status_bar_indicator_corner_padding">20.0px</dimen>
+	<string name="config_mainBuiltInDisplayCutout">M 0.0,0.0 h 100 v 124 h -100 Z</string>
+	<string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0.0,0.0 h 100 v 124 h -100 Z</string>
+	<integer name="config_screenBrightnessDoze">17</integer>
+</resources>
