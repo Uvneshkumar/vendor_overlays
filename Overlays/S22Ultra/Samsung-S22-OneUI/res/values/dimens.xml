@@ -18,7 +18,8 @@
 	<!--dimen name="status_bar_camera_side_padding">37.0px</dimen>
     <dimen name="status_bar_camera_top_margin">25.0px</dimen-->
 	
-	<dimen name="config_dialogCornerRadius">20dp</dimen>
+	<!--dimen name="config_dialogCornerRadius">20dp</dimen-->
+	
 	<dimen name="status_bar_height">124.0px</dimen>
     <dimen name="status_bar_height_portrait">124.0px</dimen>
     <dimen name="status_bar_height_landscape">124.0px</dimen>

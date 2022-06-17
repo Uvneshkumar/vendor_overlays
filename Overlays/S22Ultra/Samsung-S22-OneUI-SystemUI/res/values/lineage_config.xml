@@ -18,6 +18,9 @@
 	<dimen name="physical_power_button_center_screen_location_y">970px</dimen>
 	<dimen name="physical_fingerprint_sensor_center_screen_location_y">610px</dimen>
 	
+	<dimen name="global_screenshot_effect_round_x">10.0dip</dimen>
+    <dimen name="global_screenshot_effect_round_y">10.0dip</dimen>
+	
 	<!--dimen name="status_bar_privacy_indicator_batteryicon_margin">8.0dip</dimen>
     <dimen name="status_bar_privacy_indicator_chip_height">20.0dip</dimen>
     <dimen name="status_bar_privacy_indicator_chip_padding">5.0dip</dimen>
