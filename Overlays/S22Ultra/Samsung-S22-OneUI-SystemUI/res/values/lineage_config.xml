@@ -15,7 +15,7 @@
 
 	<dimen name="status_bar_header_height_keyguard">124px</dimen>
 	
-	<dimen name="physical_power_button_center_screen_location_y">970px</dimen>
+	<dimen name="physical_power_button_center_screen_location_y">1175px</dimen>
 	<dimen name="physical_fingerprint_sensor_center_screen_location_y">610px</dimen>
 	
 	<dimen name="global_screenshot_effect_round_x">10.0dip</dimen>
