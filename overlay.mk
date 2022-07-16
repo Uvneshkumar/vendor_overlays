@@ -1,5 +1,6 @@
 PRODUCT_PACKAGES += \
     treble-overlay-lawnchair \
+	treble-overlay-systemui2 \
 	DisplayCutoutEmulationTallOverlay \
 	HardwareOverlayPicker \
 	QtiAudio \
