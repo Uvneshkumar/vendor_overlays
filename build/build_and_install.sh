@@ -7,11 +7,12 @@
 #adb install -r treble-overlay-oneplus-9pro-systemui.apk
 #adb install -r treble-overlay-samsung-s22-oneui-systemui.apk
 
-adb install -r treble-overlay-samsung-s22ultra-aosp.apk
+#adb install -r treble-overlay-samsung-s22ultra-aosp.apk
 #adb install -r treble-overlay-samsung-s22ultra-oneui-systemui.apk
 #adb install -r treble-overlay-samsung-s21ultra-oneui-systemui.apk
 
 #adb install -r treble-overlay-pixel6pro.apk
+adb install -r treble-overlay-systemui2.apk
 
 #adb push treble-overlay-samsung-s21ultra-oneui.apk /sdcard/
 #adb shell su -c mv /sdcard/treble-overlay-samsung-s21ultra-oneui.apk /data/adb/modules/quickstepswitcher/system/product/overlay/framework-res__auto_generated_rro_product.apk

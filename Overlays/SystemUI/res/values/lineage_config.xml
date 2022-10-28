@@ -12,4 +12,8 @@
     <dimen name="multi_user_avatar_keyguard_size">0.0dip</dimen>
     <dimen name="system_icons_super_container_margin_start">900000.0dip</dimen>
     <dimen name="keyguard_large_clock_top_margin">-300dip</dimen>
+    <dimen name="qs_panel_elevation">0dip</dimen>
+    <dimen name="qs_footer_action_inset_negative">0dip</dimen>
+    <dimen name="qs_security_footer_single_line_height">0dip</dimen>
+    <dimen name="qs_security_footer_height">0dip</dimen>
 </resources>
