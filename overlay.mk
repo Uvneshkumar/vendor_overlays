@@ -143,6 +143,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-charcoalblack \
 	treble-overlay-round-icon \
 	treble-overlay-navbar \
+	treble-overlay-settings \
+	treble-overlay-color \
 
 
 PRODUCT_PACKAGES += \
