@@ -145,6 +145,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-navbar \
 	treble-overlay-settings \
 	treble-overlay-color \
+	treble-overlay-spacewar \
 
 
 PRODUCT_PACKAGES += \
