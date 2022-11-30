@@ -2,6 +2,4 @@
 <resources>
     <integer name="config_navBarInteractionMode">2</integer>
     <integer name="config_navBarOpacityMode">2</integer>
-    <integer name="config_screenBrightnessDoze">190</integer>
-    <item name="config_screenBrightnessDozeFloat" format="float" type="dimen">-2</item>
 </resources>
