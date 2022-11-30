@@ -2,4 +2,6 @@
 <resources>
     <integer name="config_navBarInteractionMode">2</integer>
     <integer name="config_navBarOpacityMode">2</integer>
+    <integer name="config_soundEffectVolumeDb">10000</integer>
+    <integer name="config_lockSoundVolumeDb">10000</integer>
 </resources>
