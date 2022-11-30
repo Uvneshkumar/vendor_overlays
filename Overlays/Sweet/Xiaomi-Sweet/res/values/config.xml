@@ -9,6 +9,7 @@
     <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0.0,0.0 h 100 v 100 h -100 Z</string>
     <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
 	<dimen name="status_bar_height">100px</dimen>
+	<dimen name="status_bar_height_default">100px</dimen>
     <dimen name="status_bar_height_portrait">100px</dimen>
     <dimen name="status_bar_height_landscape">100px</dimen>
     <integer name="config_screenBrightnessDoze">17</integer>
