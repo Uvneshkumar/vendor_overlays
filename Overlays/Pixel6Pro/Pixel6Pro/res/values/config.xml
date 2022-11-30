@@ -1,7 +1,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-	<!--dimen name="status_bar_height">124.0px</dimen-->
+	<dimen name="status_bar_height">140.0px</dimen>
+	<dimen name="status_bar_height_default">140.0px</dimen>
     <dimen name="status_bar_height_portrait">140.0px</dimen>
-    <!--dimen name="status_bar_height_landscape">124.0px</dimen-->
+    <dimen name="status_bar_height_landscape">140.0px</dimen>
 	<string translatable="false" name="config_mainBuiltInDisplayCutout">
         M 677,72
         a 42,42 0 1 0 84,0 
@@ -11,5 +12,4 @@
     </string>
 	<string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0.0,0.0 h 100 v 140 h -100 Z</string>
     <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
-	<integer name="config_screenBrightnessDoze">17</integer>
 </resources>
