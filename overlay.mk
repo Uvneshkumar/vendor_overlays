@@ -146,6 +146,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-settings \
 	treble-overlay-color \
 	treble-overlay-spacewar \
+	treble-overlay-aod \
 
 
 PRODUCT_PACKAGES += \
