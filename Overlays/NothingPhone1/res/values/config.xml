@@ -1,10 +1,10 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="config_mainBuiltInDisplayCutout">M89.3,42.31 m0,26.19 a26.19,26.19 0 1,0 52.38,0 a26.19,26.19 0 1,0 -52.38,0 Z @left</string>
-    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0.0,0.0 h 147.83 v 136 h -147.83 Z @left</string>
+    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0.0,0.0 h 187.83 v 136 h -187.83 Z @left</string>
     <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
     <dimen name="rounded_corner_radius">106.0px</dimen>
     <dimen name="status_bar_height">136.0px</dimen>
     <dimen name="status_bar_height_default">136.0px</dimen>
-    <dimen name="status_bar_height_landscape">136.0px</dimen>
+    <dimen name="status_bar_height_landscape">100.0px</dimen>
     <dimen name="status_bar_height_portrait">136.0px</dimen>
 </resources>
