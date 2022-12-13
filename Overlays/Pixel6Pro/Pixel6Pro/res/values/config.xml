@@ -2,7 +2,7 @@
 	<dimen name="status_bar_height">140.0px</dimen>
 	<dimen name="status_bar_height_default">140.0px</dimen>
     <dimen name="status_bar_height_portrait">140.0px</dimen>
-    <dimen name="status_bar_height_landscape">100.0px</dimen>
+    <dimen name="status_bar_height_landscape">140.0px</dimen>
 	<string translatable="false" name="config_mainBuiltInDisplayCutout">
         M 677,72
         a 42,42 0 1 0 84,0 

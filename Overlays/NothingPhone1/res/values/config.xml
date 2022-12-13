@@ -5,6 +5,6 @@
     <dimen name="rounded_corner_radius">106.0px</dimen>
     <dimen name="status_bar_height">136.0px</dimen>
     <dimen name="status_bar_height_default">136.0px</dimen>
-    <dimen name="status_bar_height_landscape">100.0px</dimen>
+    <dimen name="status_bar_height_landscape">136.0px</dimen>
     <dimen name="status_bar_height_portrait">136.0px</dimen>
 </resources>
