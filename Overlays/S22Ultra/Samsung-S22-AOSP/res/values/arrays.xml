@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="config_Day_Of_Use_Support_App_List">
-        <item>com.whatsapp</item>
-        <item>com.kakao.talk</item>
-        <item>com.google.android.talk</item>
-        <item>com.facebook.orca</item>
-        <item>com.tencent.mm</item>
-        <item>com.android.chrome</item>
-        <item>com.sec.android.app.sbrowser</item>
-        <item>com.google.android.youtube</item>
-        <item>com.baidu.searchbox</item>
-    </string-array>
     <string-array name="config_Extra_Brightness_Display_Solution_Brightness_Value">
         <item>1.663</item>
+    </string-array>
+    <string-array name="config_High_Brightness_Mode_Plus_Value">
+        <item>-1,-1,-1,-1,510,409</item>
+        <item>-1,-1,-1,510,409,307</item>
+        <item>-1,-1,510,409,307,307</item>
+        <item>-1,510,409,307,307,307</item>
     </string-array>
     <string-array name="config_High_Dynamic_Range_Display_Solution_Brightness_Value">
         <item>2.4</item>
