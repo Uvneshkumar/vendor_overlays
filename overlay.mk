@@ -147,6 +147,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-settings \
 	treble-overlay-color \
 	treble-overlay-spacewar \
+	treble-overlay-systemui-lefthole \
 	treble-overlay-aod \
 
 
