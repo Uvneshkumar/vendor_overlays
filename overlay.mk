@@ -1,5 +1,6 @@
 PRODUCT_PACKAGES += \
     treble-overlay-lawnchair \
+    treble-overlay-teamfiles \
 	treble-overlay-systemui2 \
 	treble-overlay-systemui2-noaccent \
 	treble-overlay-pixel \
