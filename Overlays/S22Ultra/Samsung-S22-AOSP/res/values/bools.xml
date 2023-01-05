@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <bool name="config_cellBroadcastAppLinks">true</bool>
+    <bool name="config_enableAutoPowerModes">true</bool>
+    <bool name="config_enableMultiUserUI">true</bool>
+    <bool name="config_intrusiveNotificationLed">true</bool>
+    <bool name="config_smart_battery_available">true</bool>
+    <bool name="config_supportAudioSourceUnprocessed">true</bool>
+    <bool name="config_swipe_up_gesture_setting_available">true</bool>
+    <bool name="config_unplugTurnsOnScreen">true</bool>
+    <bool name="config_useRoundIcon">true</bool>
+
     <bool name="config_AFC_enabled">true</bool>
     <bool name="config_dynamic_automatic_brightness_available">true</bool>
     <bool name="config_showNavigationBar">true</bool>
-    <bool name="config_supportAudioSourceUnprocessed">false</bool>
 </resources>
