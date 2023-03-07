@@ -150,6 +150,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-spacewar \
 	treble-overlay-systemui-lefthole \
 	treble-overlay-aod \
+	treble-overlay-betterqs \
 
 
 PRODUCT_PACKAGES += \
