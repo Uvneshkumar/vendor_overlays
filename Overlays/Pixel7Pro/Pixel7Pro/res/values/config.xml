@@ -1,0 +1,22 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+	<dimen name="status_bar_height">144.0px</dimen>
+	<dimen name="status_bar_height_default">144.0px</dimen>
+    <dimen name="status_bar_height_portrait">144.0px</dimen>
+    <dimen name="status_bar_height_landscape">144.0px</dimen>
+    <string translatable="false" name="config_mainBuiltInDisplayCutout">
+        M 677,72
+        a 43,43 0 1 0 86,0
+        a 43,43 0 1 0 -86,0
+        Z
+        @left
+    </string>
+    <string translatable="false" name="config_mainBuiltInDisplayCutoutRectApproximation">
+        M 653,0
+        h 145
+        v 144
+        h -145
+        Z
+        @left
+    </string>
+    <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
+</resources>
