@@ -5,6 +5,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-systemui2-accent \
 	treble-overlay-systemui2-nobg \
 	treble-overlay-pixel \
+	treble-overlay-eqs \
 	DisplayCutoutEmulationTallOverlay \
 	HardwareOverlayPicker \
 	QtiAudio \

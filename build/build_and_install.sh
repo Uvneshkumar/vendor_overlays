@@ -11,8 +11,8 @@
 #adb install -r treble-overlay-samsung-s22ultra-oneui-systemui.apk
 #adb install -r treble-overlay-samsung-s21ultra-oneui-systemui.apk
 
-adb install -r treble-overlay-systemui-lefthole.apk
-adb shell su -c killall com.android.systemui
+adb install -r treble-overlay-eqs.apk
+#adb shell su -c killall com.android.systemui
 
 #adb install -r treble-overlay-navbar.apk
 
