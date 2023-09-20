@@ -154,6 +154,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-systemui-lefthole \
 	treble-overlay-aod \
 	treble-overlay-betterqs \
+	treble-overlay-rmx10proplus \
 
 
 PRODUCT_PACKAGES += \
