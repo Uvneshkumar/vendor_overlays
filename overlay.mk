@@ -155,6 +155,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-aod \
 	treble-overlay-betterqs \
 	treble-overlay-rmx10proplus \
+	treble-overlay-tap \
 
 
 PRODUCT_PACKAGES += \
