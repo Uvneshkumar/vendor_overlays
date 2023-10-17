@@ -1,20 +1,20 @@
 #adb connect 192.168.1.110
 ./build.sh
-#adb install -r treble-overlay-xiaomi-sweet.apk
-#adb install -r treble-overlay-samsung-s20-one-ui.apk
+#adb install --bypass-low-target-sdk-block -r treble-overlay-xiaomi-sweet.apk
+#adb install --bypass-low-target-sdk-block -r treble-overlay-samsung-s20-one-ui.apk
 
-#adb install -r treble-overlay-oneplus-9pro.apk
-#adb install -r treble-overlay-oneplus-9pro-systemui.apk
-#adb install -r treble-overlay-samsung-s22-oneui-systemui.apk
+#adb install --bypass-low-target-sdk-block -r treble-overlay-oneplus-9pro.apk
+#adb install --bypass-low-target-sdk-block -r treble-overlay-oneplus-9pro-systemui.apk
+#adb install --bypass-low-target-sdk-block -r treble-overlay-samsung-s22-oneui-systemui.apk
 
-#adb install -r treble-overlay-samsung-s22ultra-aosp.apk
-#adb install -r treble-overlay-samsung-s22ultra-oneui-systemui.apk
-#adb install -r treble-overlay-samsung-s21ultra-oneui-systemui.apk
+#adb install --bypass-low-target-sdk-block -r treble-overlay-samsung-s22ultra-aosp.apk
+#adb install --bypass-low-target-sdk-block -r treble-overlay-samsung-s22ultra-oneui-systemui.apk
+#adb install --bypass-low-target-sdk-block -r treble-overlay-samsung-s21ultra-oneui-systemui.apk
 
-adb install -r treble-overlay-eqs.apk
+adb install --bypass-low-target-sdk-block -r treble-overlay-eqs.apk
 #adb shell su -c killall com.android.systemui
 
-#adb install -r treble-overlay-navbar.apk
+#adb install --bypass-low-target-sdk-block -r treble-overlay-navbar.apk
 
 #adb push treble-overlay-samsung-s21ultra-oneui.apk /sdcard/
 #adb shell su -c mv /sdcard/treble-overlay-samsung-s21ultra-oneui.apk /data/adb/modules/quickstepswitcher/system/product/overlay/framework-res__auto_generated_rro_product.apk
