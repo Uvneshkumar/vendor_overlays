@@ -23,4 +23,7 @@
     <dimen name="global_actions_translate">0dp</dimen>
     <color name="material_dynamic_primary90">#ffffffff</color>
     <dimen name="status_bar_system_icon_spacing">0dp</dimen>
+    <dimen name="keyguard_affordance_vertical_offset">-300dp</dimen>
+    <dimen name="lock_icon_margin_bottom">200dp</dimen>
+    <dimen name="keyguard_indication_margin_bottom">100dp</dimen>
 </resources>
