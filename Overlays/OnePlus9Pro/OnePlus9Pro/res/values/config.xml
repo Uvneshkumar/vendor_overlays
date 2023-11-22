@@ -1,6 +1,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <dimen name="rounded_corner_radius">125px</dimen>
+    <dimen name="rounded_corner_radius">44dp</dimen>
     <dimen name="config_dialogCornerRadius">28dp</dimen>
+<!--    https://svg-path-visualizer.netlify.app-->
 	<string translatable="false" name="config_mainBuiltInDisplayCutout">
         M 154,83
         M 111,83
@@ -9,19 +10,22 @@
         Z
         @left
     </string>
+<!--    55 is status_bar_height in dp-->
+<!--    90 + 90 = 180dp is the total padding of the status bar start from the screen edge-->
 	<string translatable="false" name="config_mainBuiltInDisplayCutoutRectApproximation">
         M 0,0
-        H 138
-        V 160
-        H -138
+        L 0,55
+        L 90,55
+        L 90,0
         Z
+        @dp
         @left
     </string>
     <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
 	<integer name="config_screenBrightnessDoze">17</integer>
 	<dimen name="rounded_corner_radius_adjustment">0px</dimen>
-    <dimen name="status_bar_height">160.0px</dimen>
-    <dimen name="status_bar_height_default">160.0px</dimen>
-    <dimen name="status_bar_height_landscape">160.0px</dimen>
-    <dimen name="status_bar_height_portrait">160.0px</dimen>
+    <dimen name="status_bar_height">55dp</dimen>
+    <dimen name="status_bar_height_default">55dp</dimen>
+    <dimen name="status_bar_height_landscape">55dp</dimen>
+    <dimen name="status_bar_height_portrait">55dp</dimen>
 </resources>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="keyguard_indication_margin_bottom">175.0dip</dimen>
-    <dimen name="qs_header_row_min_height">160.0px</dimen>
-    <dimen name="physical_power_button_center_screen_location_y">1250.0px</dimen>
-    <dimen name="config_rounded_mask_size">148.0px</dimen>
+    <dimen name="qs_header_row_min_height">55dp</dimen>
+    <dimen name="physical_power_button_center_screen_location_y">417dp</dimen>
+    <dimen name="config_rounded_mask_size">49dp</dimen>
 </resources>
