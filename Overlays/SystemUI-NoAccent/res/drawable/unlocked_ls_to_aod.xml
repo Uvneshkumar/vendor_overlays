@@ -20,14 +20,14 @@
             <group android:name="_R_G">
                 <group android:name="_R_G_L_2_G" android:translateX="23" android:translateY="32.125">
                     <path android:name="_R_G_L_2_G_D_0_P_0"
-                          android:fillColor="#FF000000"
+                          android:fillColor="#00000000"
                           android:fillAlpha="1"
                           android:fillType="nonZero"
                           android:pathData=" M-0.09 8.63 C1.2,8.63 2.25,7.57 2.25,6.28 C2.25,4.99 1.2,3.94 -0.09,3.94 C-1.39,3.94 -2.44,4.99 -2.44,6.28 C-2.44,7.57 -1.39,8.63 -0.09,8.63c " />
                 </group>
                 <group android:name="_R_G_L_1_G" android:translateX="23" android:translateY="32.125">
                     <path android:name="_R_G_L_1_G_D_0_P_0"
-                          android:strokeColor="#FF000000"
+                          android:strokeColor="#00000000"
                           android:strokeLineCap="round"
                           android:strokeLineJoin="round"
                           android:strokeWidth="2"
@@ -36,7 +36,7 @@
                 </group>
                 <group android:name="_R_G_L_0_G" android:translateX="14" android:translateY="13.5">
                     <path android:name="_R_G_L_0_G_D_0_P_0"
-                          android:strokeColor="#FF000000"
+                          android:strokeColor="#00000000"
                           android:strokeLineCap="round"
                           android:strokeLineJoin="round"
                           android:strokeWidth="2.5"
