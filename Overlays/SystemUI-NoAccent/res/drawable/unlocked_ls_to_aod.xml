@@ -148,4 +148,40 @@
             </set>
         </aapt:attr>
     </target>
+    <target android:name="_R_G_L_2_G_D_0_P_0">
+        <aapt:attr name="android:animation">
+            <set android:ordering="together">
+                <objectAnimator android:propertyName="fillColor"
+                                android:duration="200"
+                                android:startOffset="233"
+                                android:valueFrom="#FF000000"
+                                android:valueTo="#00000000"
+                                android:valueType="colorType" />
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="_R_G_L_1_G_D_0_P_0">
+        <aapt:attr name="android:animation">
+            <set android:ordering="together">
+                <objectAnimator android:propertyName="strokeColor"
+                                android:duration="200"
+                                android:startOffset="233"
+                                android:valueFrom="#FF000000"
+                                android:valueTo="#00000000"
+                                android:valueType="colorType" />
+            </set>
+        </aapt:attr>
+    </target>
+    <target android:name="_R_G_L_0_G_D_0_P_0">
+        <aapt:attr name="android:animation">
+            <set android:ordering="together">
+                <objectAnimator android:propertyName="strokeColor"
+                                android:duration="200"
+                                android:startOffset="233"
+                                android:valueFrom="#FF000000"
+                                android:valueTo="#00000000"
+                                android:valueType="colorType" />
+            </set>
+        </aapt:attr>
+    </target>
 </animated-vector>
