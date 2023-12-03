@@ -152,7 +152,7 @@
         <aapt:attr name="android:animation">
             <set android:ordering="together">
                 <objectAnimator android:propertyName="fillColor"
-                                android:duration="200"
+                                android:duration="100"
                                 android:startOffset="233"
                                 android:valueFrom="#FF000000"
                                 android:valueTo="#00000000"
@@ -164,7 +164,7 @@
         <aapt:attr name="android:animation">
             <set android:ordering="together">
                 <objectAnimator android:propertyName="strokeColor"
-                                android:duration="200"
+                                android:duration="100"
                                 android:startOffset="233"
                                 android:valueFrom="#FF000000"
                                 android:valueTo="#00000000"
@@ -176,7 +176,7 @@
         <aapt:attr name="android:animation">
             <set android:ordering="together">
                 <objectAnimator android:propertyName="strokeColor"
-                                android:duration="200"
+                                android:duration="100"
                                 android:startOffset="233"
                                 android:valueFrom="#FF000000"
                                 android:valueTo="#00000000"
