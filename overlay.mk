@@ -5,6 +5,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-systemui2-accent \
 	treble-overlay-systemui2-nobg \
 	treble-overlay-pixel \
+	treble-overlay-pixel2 \
 	treble-overlay-eqs \
 	DisplayCutoutEmulationTallOverlay \
 	HardwareOverlayPicker \
