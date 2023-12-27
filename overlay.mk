@@ -4,6 +4,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-systemui2 \
 	treble-overlay-systemui2-accent \
 	treble-overlay-systemui2-nobg \
+	treble-overlay-systemui2-nobuild \
 	treble-overlay-pixel \
 	treble-overlay-pixel2 \
 	treble-overlay-eqs \
