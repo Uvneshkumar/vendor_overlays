@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<dimen name="status_bar_padding_start">16dp</dimen>
-	<dimen name="status_bar_padding_end">16dp</dimen>
+	<dimen name="status_bar_padding_start">25dp</dimen>
+	<dimen name="status_bar_padding_end">25dp</dimen>
 	<dimen name="ongoing_appops_dot_min_padding">20dp</dimen>
 </resources>
