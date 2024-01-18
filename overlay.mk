@@ -154,6 +154,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-color \
 	treble-overlay-spacewar \
 	treble-overlay-pong \
+	treble-overlay-redfin \
 	treble-overlay-systemui-lefthole \
 	treble-overlay-aod \
 	treble-overlay-betterqs \

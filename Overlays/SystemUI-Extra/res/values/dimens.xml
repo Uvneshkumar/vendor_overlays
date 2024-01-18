@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!--    Lemonadep-->
+    <!--    Lemonadep-->
     <dimen name="keyguard_indication_margin_bottom">175.0dip</dimen>
     <dimen name="qs_header_row_min_height">55dp</dimen>
     <dimen name="physical_power_button_center_screen_location_y">417dp</dimen>
     <dimen name="config_rounded_mask_size">49dp</dimen>
 
-<!--    Pong-->
+    <!--    Pong-->
     <dimen name="keyguard_indication_margin_bottom">175.0dip</dimen>
     <dimen name="qs_header_row_min_height">125px</dimen>
     <dimen name="config_rounded_mask_size">112px</dimen>
     <dimen name="status_bar_padding_start">25dp</dimen>
     <dimen name="status_bar_padding_end">17dp</dimen>
+
+    <!--    Redfin-->
+    <dimen name="qs_header_row_min_height">154px</dimen>
+    <dimen name="status_bar_padding_top">14px</dimen>
+    <dimen name="status_bar_padding_end">15dp</dimen>
+    <bool name="config_enablePrivacyDot">false</bool>
 </resources>
