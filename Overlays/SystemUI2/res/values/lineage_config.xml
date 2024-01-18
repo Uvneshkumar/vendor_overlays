@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="status_bar_padding_top">0px</dimen>
-	<dimen name="status_bar_padding_start">25dp</dimen>
-    <dimen name="status_bar_padding_end">25dp</dimen>
+	<dimen name="status_bar_padding_start">16dp</dimen>
+    <dimen name="status_bar_padding_end">16dp</dimen>
 	<dimen name="rounded_corner_content_padding">60.0px</dimen>
 	<color name="status_bar_carrier_color">#00ffffff</color>
 	<dimen name="system_icons_keyguard_padding_end">900000.0dip</dimen>
