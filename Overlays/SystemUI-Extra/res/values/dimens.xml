@@ -13,7 +13,7 @@
     <!--    Only for Nothing OS-->
     <dimen name="clock_padding_start">28dp</dimen>
     <dimen name="below_clock_padding_start">34dp</dimen>
-    <dimen name="below_clock_padding_start_icons">38dp</dimen>
+    <dimen name="below_clock_padding_start_icons">40dp</dimen>
     <dimen name="small_clock_text_size">100dp</dimen>
     <dimen name="status_bar_padding_end">17dp</dimen>
     <!--    Only for crDroid-->
