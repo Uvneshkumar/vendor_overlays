@@ -155,6 +155,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-spacewar \
 	treble-overlay-pong \
 	treble-overlay-pong-framework \
+	treble-overlay-pong-aod \
 	treble-overlay-redfin \
 	treble-overlay-systemui-lefthole \
 	treble-overlay-aod \

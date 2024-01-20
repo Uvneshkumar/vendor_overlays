@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="doze_brightness_ratio_0">0.37069702</item>
+    <item type="dimen" name="doze_brightness_ratio_1">0.37069702</item>
+    <item type="dimen" name="doze_brightness_ratio_2">0.37069702</item>
+</resources>
