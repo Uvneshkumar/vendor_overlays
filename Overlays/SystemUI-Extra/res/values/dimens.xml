@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--    Only for crDroid-->
+    <dimen name="qqs_layout_padding_bottom">20dp</dimen>
+
     <!--    Lemonadep-->
     <dimen name="keyguard_indication_margin_bottom">175.0dip</dimen>
     <dimen name="qs_header_row_min_height">55dp</dimen>
@@ -19,7 +22,6 @@
     <!--    Only for crDroid-->
     <dimen name="status_bar_padding_start">24dp</dimen>
     <dimen name="status_bar_padding_end">16dp</dimen>
-    <dimen name="qqs_layout_padding_bottom">20dp</dimen>
 
     <!--    Redfin-->
     <dimen name="qs_header_row_min_height">154px</dimen>
