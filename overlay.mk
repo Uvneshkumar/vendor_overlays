@@ -157,6 +157,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-pong-framework \
 	treble-overlay-pong-aod \
 	treble-overlay-redfin \
+	treble-overlay-redfin-aod \
 	treble-overlay-systemui-lefthole \
 	treble-overlay-aod \
 	treble-overlay-betterqs \
