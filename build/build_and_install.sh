@@ -1,4 +1,4 @@
-#adb connect 192.168.1.110
+#adb connect 192.168.1.16:5555
 ./build.sh
 #adb install --bypass-low-target-sdk-block -r treble-overlay-xiaomi-sweet.apk
 #adb install --bypass-low-target-sdk-block -r treble-overlay-samsung-s20-one-ui.apk
@@ -11,7 +11,7 @@
 #adb install --bypass-low-target-sdk-block -r treble-overlay-samsung-s22ultra-oneui-systemui.apk
 #adb install --bypass-low-target-sdk-block -r treble-overlay-samsung-s21ultra-oneui-systemui.apk
 
-adb install --bypass-low-target-sdk-block -r treble-overlay-eqs.apk
+#adb install --bypass-low-target-sdk-block -r treble-overlay-eqs.apk
 #adb shell su -c killall com.android.systemui
 
 #adb install --bypass-low-target-sdk-block -r treble-overlay-navbar.apk
@@ -39,5 +39,13 @@ adb install --bypass-low-target-sdk-block -r treble-overlay-eqs.apk
 #adb push treble-overlay-samsung-tabs7plus-oneui-systemui.apk /sdcard/
 #adb shell su -c mv /sdcard/treble-overlay-samsung-tabs7plus-oneui-systemui.apk /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-samsung-tabs7plus-oneui-systemui.apk
 #adb shell su -c chmod 0644 /data/adb/modules/quickstepswitcher/system/product/overlay/treble-overlay-samsung-tabs7plus-oneui-systemui.apk
+
+#adb push treble-overlay-redfin-color-vendor.apk /sdcard/
+#adb shell su -c mv /sdcard/treble-overlay-redfin-color-vendor.apk /data/adb/modules/MagiskHidePropsConf/system/vendor/overlay/treble-overlay-redfin-color-vendor.apk
+#adb shell su -c chmod 0644 /data/adb/modules/MagiskHidePropsConf/system/vendor/overlay/treble-overlay-redfin-color-vendor.apk
+
+#adb push treble-overlay-redfin-aod-vendor.apk /sdcard/
+#adb shell su -c mv /sdcard/treble-overlay-redfin-aod-vendor.apk /data/adb/modules/MagiskHidePropsConf/system/vendor/overlay/treble-overlay-redfin-aod-vendor.apk
+#adb shell su -c chmod 0644 /data/adb/modules/MagiskHidePropsConf/system/vendor/overlay/treble-overlay-redfin-aod-vendor.apk
 
 #adb reboot
