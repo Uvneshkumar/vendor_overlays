@@ -166,6 +166,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-tap \
 	treble-overlay-android-extra \
 	treble-overlay-systemui-extra \
+	treble-overlay-nothing-settings \
 
 
 PRODUCT_PACKAGES += \

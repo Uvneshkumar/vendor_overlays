@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nt_config_color_mode_options_summary">
+        <item>Saturated 2</item>
+        <item>Saturated 261</item>
+    </string-array>
+    <integer-array name="nt_config_color_mode_options_values">
+        <item>2</item>
+        <item>261</item>
+    </integer-array>
+</resources>
