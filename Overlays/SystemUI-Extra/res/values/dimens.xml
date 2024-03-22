@@ -19,9 +19,6 @@
     <dimen name="below_clock_padding_start_icons">40dp</dimen>
     <dimen name="small_clock_text_size">100dp</dimen>
     <dimen name="status_bar_padding_end">17dp</dimen>
-    <!--    Only for crDroid-->
-    <dimen name="status_bar_padding_start">24dp</dimen>
-    <dimen name="status_bar_padding_end">16dp</dimen>
 
     <!--    Redfin-->
     <dimen name="qs_header_row_min_height">154px</dimen>
