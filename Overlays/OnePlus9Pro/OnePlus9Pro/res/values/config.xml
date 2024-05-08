@@ -21,6 +21,18 @@
         @dp
         @left
     </string>
+
+<!--    Nameless AOSP-->
+<!--    <string translatable="false" name="config_mainBuiltInDisplayCutoutRectApproximation">-->
+<!--        M 0,0-->
+<!--        L 0,63-->
+<!--        L 100,63-->
+<!--        L 100,0-->
+<!--        Z-->
+<!--        @dp-->
+<!--        @left-->
+<!--    </string>-->
+
     <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
 	<integer name="config_screenBrightnessDoze">17</integer>
 	<dimen name="rounded_corner_radius_adjustment">0px</dimen>
