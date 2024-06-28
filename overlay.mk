@@ -167,6 +167,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-android-extra \
 	treble-overlay-systemui-extra \
 	treble-overlay-nothing-settings \
+	treble-overlay-pixel-launcher-overlays \
 
 
 PRODUCT_PACKAGES += \
