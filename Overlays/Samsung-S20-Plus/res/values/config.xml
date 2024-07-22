@@ -1,0 +1,19 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="config_mainBuiltInDisplayCutout">M 0,0 H -10 V 100 H 10 V 0 H 0 Z</string>
+    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,0 H -10 V 100 H 10 V 0 H 0 Z</string>
+    <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
+    <dimen name="status_bar_height">100px</dimen>
+    <dimen name="status_bar_height_default">100px</dimen>
+    <dimen name="status_bar_height_portrait">100px</dimen>
+    <dimen name="status_bar_height_landscape">100px</dimen>
+    <dimen name="rounded_corner_radius">36dp</dimen>
+    <dimen name="rounded_corner_radius_top">36dp</dimen>
+    <dimen name="rounded_corner_radius_bottom">36dp</dimen>
+    <dimen name="rounded_corner_radius_adjustment">0dip</dimen>
+    <integer name="config_screenBrightnessDoze">17</integer>
+    <bool name="config_useRoundIcon">true</bool>
+    <dimen name="config_dialogCornerRadius">28dp</dimen>
+    <dimen name="status_bar_camera_side_padding">0mm</dimen>
+    <dimen name="status_bar_camera_top_margin">0mm</dimen>
+    <dimen name="status_bar_indicator_corner_padding">100.0px</dimen>
+</resources>
