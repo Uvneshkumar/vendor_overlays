@@ -43,5 +43,5 @@ echo "$makes" | while read -r f;do
 #    LD_LIBRARY_PATH=./signapk/ java -jar signapk/signapk.jar keys/platform.x509.pem keys/platform.pk8 "${name}-unsigned.apk" "${name}.apk"
 #    rm -f "${name}-unsigned.apk"
     apksigner sign --key keys/platform.pk8 --cert keys/platform.x509.pem "${name}.apk"
-    rm -f "${name}.apk.idsig"
+    rm -rf "${name}.apk.idsig"
 done
