@@ -14,6 +14,15 @@
     <dimen name="status_bar_padding_start">8dp</dimen>
     <dimen name="status_bar_padding_end">16dp</dimen>
 
+    <!--    Pixel 2-->
+    <dimen name="physical_power_button_center_screen_location_y">440px</dimen>
+    <dimen name="physical_fingerprint_sensor_center_screen_location_y">440px</dimen>
+    <dimen name="status_bar_padding_start">6dp</dimen>
+    <dimen name="status_bar_padding_end">6dp</dimen>
+    <dimen name="status_bar_clock_end_padding">4.0dip</dimen>
+    <dimen name="lock_icon_margin_bottom">74dp</dimen>
+    <dimen name="keyguard_indication_margin_bottom">32dp</dimen>
+
     <!--    Lemonadep-->
     <dimen name="keyguard_indication_margin_bottom">175.0dip</dimen>
     <dimen name="qs_header_row_min_height">55dp</dimen>
