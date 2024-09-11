@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- 0: OFF -->
+    <!-- 1: NIGHT -->
+    <!-- 2: LOW -->
+    <!-- 3: HIGH -->
+    <!-- 4: SUN -->
     <integer-array name="config_doze_brightness_sensor_to_brightness">
         <item>-1</item>
+        <item>5</item>
+        <item>17</item>
         <item>27</item>
-        <item>27</item>
-        <item>27</item>
-        <item>27</item>
+        <item>28</item>
+    </integer-array>
+    <integer-array name="config_doze_brightness_sensor_to_scrim_opacity">
+        <item>-1</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
     </integer-array>
 </resources>
