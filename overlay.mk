@@ -168,6 +168,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-systemui-extra \
 	treble-overlay-nothing-settings \
 	treble-overlay-pixel-launcher-overlays \
+	treble-overlay-systemui-clock \
 
 
 PRODUCT_PACKAGES += \
