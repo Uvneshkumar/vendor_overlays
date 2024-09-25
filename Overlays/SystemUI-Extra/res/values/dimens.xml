@@ -12,6 +12,11 @@
     <dimen name="status_bar_padding_start">10dp</dimen>
     <dimen name="status_bar_padding_end">10dp</dimen>
 
+    <!--    S21-->
+    <dimen name="config_rounded_mask_size">42dp</dimen>
+    <dimen name="config_rounded_mask_size_top">42dp</dimen>
+    <dimen name="config_rounded_mask_size_bottom">42dp</dimen>
+
     <!--    S20-->
     <dimen name="keyguard_indication_margin_bottom">100.0dip</dimen>
     <dimen name="qs_header_row_min_height">42dp</dimen>
