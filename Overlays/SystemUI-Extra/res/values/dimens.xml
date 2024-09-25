@@ -37,6 +37,7 @@
     <dimen name="qs_header_row_min_height">55dp</dimen>
     <dimen name="physical_power_button_center_screen_location_y">417dp</dimen>
     <dimen name="config_rounded_mask_size">48dp</dimen>
+<!--    <dimen name="enhanced_smartspace_height">60.0dip</dimen>-->
 
     <!--    Pong-->
     <dimen name="keyguard_indication_margin_bottom">200.0dip</dimen>
