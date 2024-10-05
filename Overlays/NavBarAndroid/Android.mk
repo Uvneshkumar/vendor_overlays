@@ -1,7 +1,7 @@
 LOCAL_PATH := $(call my-dir)
 include $(CLEAR_VARS)
 LOCAL_MODULE_TAGS := optional
-LOCAL_PACKAGE_NAME := treble-overlay-navbar-systemui-a11
+LOCAL_PACKAGE_NAME := treble-overlay-navbar-android-a11
 LOCAL_MODULE_PATH := $(TARGET_OUT)/overlay
 LOCAL_IS_RUNTIME_RESOURCE_OVERLAY := true
 LOCAL_PRIVATE_PLATFORM_APIS := true

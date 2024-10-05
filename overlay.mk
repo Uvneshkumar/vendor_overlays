@@ -151,7 +151,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-charcoalblack \
 	treble-overlay-round-icon \
 	treble-overlay-navbar \
-	treble-overlay-navbar-systemui \
+	treble-overlay-navbar-systemui-a11 \
+	treble-overlay-navbar-android-a11 \
 	treble-overlay-settings \
 	treble-overlay-color \
 	treble-overlay-spacewar \
