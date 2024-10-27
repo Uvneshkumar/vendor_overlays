@@ -39,7 +39,7 @@
     <dimen name="biometric_dialog_corner_size">8dp</dimen>
 
     <!--    Lemonadep-->
-    <dimen name="keyguard_indication_margin_bottom">150.0dip</dimen>
+    <dimen name="keyguard_indication_margin_bottom">175.0dip</dimen>
     <dimen name="qs_header_row_min_height">55dp</dimen>
     <dimen name="physical_power_button_center_screen_location_y">417dp</dimen>
     <dimen name="config_rounded_mask_size">48dp</dimen>
