@@ -29,5 +29,6 @@
     <dimen name="status_bar_clock_end_padding">4.0dip</dimen>
     <dimen name="status_bar_left_clock_end_padding">4.0dip</dimen>
     <integer name="config_lockIconLongPress">10</integer>
+    <integer name="config_udfpsDeviceEntryIconLongPress">10</integer>
     <dimen name="below_clock_padding_start_icons">31.0dip</dimen>
 </resources>
