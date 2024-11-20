@@ -14,6 +14,11 @@
     <dimen name="navigation_bar_burn_in_offset_max_x">0dp</dimen>
     <dimen name="navigation_bar_burn_in_offset_max_y">0dp</dimen>
 
+    <!--    Pixel 9 Pro XL-->
+    <!--    Unwanted-->
+    <dimen name="config_rounded_mask_size">72.0dip</dimen>
+    <!--    Unwanted-->
+
     <!--    Pixel 7 Pro-->
     <dimen name="keyguard_indication_margin_bottom">120.0dip</dimen>
     <dimen name="below_clock_padding_start_icons">31.0dip</dimen>
@@ -54,7 +59,7 @@
     <dimen name="qs_header_row_min_height">55dp</dimen>
     <dimen name="physical_power_button_center_screen_location_y">417dp</dimen>
     <dimen name="config_rounded_mask_size">48dp</dimen>
-<!--    <dimen name="enhanced_smartspace_height">60.0dip</dimen>-->
+    <!--    <dimen name="enhanced_smartspace_height">60.0dip</dimen>-->
 
     <!--    Pong-->
     <dimen name="keyguard_indication_margin_bottom">200.0dip</dimen>
