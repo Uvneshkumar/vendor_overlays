@@ -76,6 +76,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oneplus-9pro-systemui \
 	treble-overlay-pixel6pro \
 	treble-overlay-pixel7pro \
+	treble-overlay-pixel9proxl \
 	treble-overlay-razer-cheryl \
 	treble-overlay-realme-x2pro \
 	treble-overlay-samsung-a30 \
