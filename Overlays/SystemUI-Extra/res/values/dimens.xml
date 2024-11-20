@@ -16,7 +16,7 @@
 
     <!--    Pixel 9 Pro XL-->
     <dimen name="config_rounded_mask_size">72.0dip</dimen>
-    <dimen name="physical_power_button_center_screen_location_y">664px</dimen>
+    <dimen name="physical_power_button_center_screen_location_y">313dp</dimen>
     <dimen name="qs_header_row_min_height">71dp</dimen>
     <dimen name="qs_brightness_margin_top">40dp</dimen>
 
