@@ -9,4 +9,7 @@
     </string>
     <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,0 H -10 V 67 H 10 V 0 H 0 Z @dp</string>
     <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
+    <dimen name="rounded_corner_radius">166px</dimen>
+    <dimen name="rounded_corner_radius_top">166px</dimen>
+    <dimen name="rounded_corner_radius_bottom">166px</dimen>
 </resources>
