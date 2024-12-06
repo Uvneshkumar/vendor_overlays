@@ -23,7 +23,6 @@
 
     <!--    Pixel 7 Pro-->
     <dimen name="keyguard_indication_margin_bottom">120.0dip</dimen>
-    <dimen name="below_clock_padding_start_icons">31.0dip</dimen>
     <dimen name="config_rounded_mask_size">31.0dip</dimen>
     <dimen name="config_rounded_mask_size_top">31.0dip</dimen>
     <dimen name="config_rounded_mask_size_bottom">31.0dip</dimen>
