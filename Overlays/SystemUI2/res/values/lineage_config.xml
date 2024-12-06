@@ -12,7 +12,7 @@
     <dimen name="multi_user_switch_keyguard_margin">90000.0dip</dimen>
     <dimen name="multi_user_avatar_keyguard_size">0.0dip</dimen>
     <dimen name="system_icons_super_container_margin_start">900000.0dip</dimen>
-    <dimen name="keyguard_large_clock_top_margin">-250dip</dimen>
+<!--    <dimen name="keyguard_large_clock_top_margin">-250dip</dimen>-->
     <dimen name="battery_level_padding_start">6dip</dimen>
     <dimen name="qs_header_row_min_height">48dp</dimen>
     <dimen name="qs_top_brightness_margin_top">16dp</dimen>
