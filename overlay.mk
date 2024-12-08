@@ -175,6 +175,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-systemui-clock \
 	treble-overlay-systemui-empty \
 	treble-overlay-android-noburnin \
+	treble-overlay-android-screenshot-no-sound \
 
 
 PRODUCT_PACKAGES += \

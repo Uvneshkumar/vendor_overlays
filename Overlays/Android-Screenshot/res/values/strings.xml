@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_cutout_emulation_overlay">Uvnesh\'s No Screenshot Sound</string>
+    <string translatable="false" name="config_cameraShutterSound"/>
+</resources>
