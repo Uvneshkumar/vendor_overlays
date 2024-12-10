@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <!--
   ~ Copyright (C) 2018 The Android Open Source Project
   ~
@@ -13,13 +14,17 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-        package="uvnesh.launcher"
-        android:versionCode="1"
-        android:versionName="1.0">
-    <overlay android:targetPackage="com.android.launcher3"
-             android:priority="1"/>
+    <string name="display_cutout_emulation_overlay">Uvnesh\'s Launcher Overlay</string>
 
-    <application android:label="@string/display_cutout_emulation_overlay" android:hasCode="false"/>
-</manifest>
+    <color name="folder_preview_light">#ccffffff</color>
+    <color name="overview_button">#00000000</color>
+    <dimen name="page_indicator_dot_margin">0px</dimen>
+    <dimen name="page_indicator_dot_size">0px</dimen>
+    <dimen name="page_indicator_dot_size_v2">0px</dimen>
+    <dimen name="page_indicator_padding_top">0px</dimen>
+    <dimen name="page_indicator_size">0px</dimen>
+    <dimen name="page_indicator_width">0px</dimen>
+
+</resources>

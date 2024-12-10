@@ -171,6 +171,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-android-extra \
 	treble-overlay-systemui-extra \
 	treble-overlay-nothing-settings \
+	treble-overlay-launcher-overlays-pixel \
 	treble-overlay-launcher-overlays \
 	treble-overlay-launcher-overlays-extra \
 	treble-overlay-systemui-clock \
