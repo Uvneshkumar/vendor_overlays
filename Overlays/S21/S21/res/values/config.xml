@@ -1,15 +1,15 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="config_mainBuiltInDisplayCutout">M 0,0 H -10 V 33 H 10 V 0 H 0 Z @dp</string>
-    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,0 H -10 V 33 H 10 V 0 H 0 Z @dp</string>
+    <string name="config_mainBuiltInDisplayCutout">M 0,0 H -10 V 44 H 10 V 0 H 0 Z @dp</string>
+    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,0 H -10 V 44 H 10 V 0 H 0 Z @dp</string>
     <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
     <!--    Status Bar Height Difference for One UI 6 - 11dp    -->
     <dimen name="status_bar_height">44dp</dimen>
     <dimen name="status_bar_height_default">44dp</dimen>
     <dimen name="status_bar_height_portrait">44dp</dimen>
     <dimen name="status_bar_height_landscape">44dp</dimen>
-    <dimen name="rounded_corner_radius">42dp</dimen>
-    <dimen name="rounded_corner_radius_top">42dp</dimen>
-    <dimen name="rounded_corner_radius_bottom">42dp</dimen>
+    <dimen name="rounded_corner_radius">38dp</dimen>
+    <dimen name="rounded_corner_radius_top">38dp</dimen>
+    <dimen name="rounded_corner_radius_bottom">38dp</dimen>
     <dimen name="rounded_corner_radius_adjustment">0dip</dimen>
     <integer name="config_screenBrightnessDoze">17</integer>
     <bool name="config_useRoundIcon">true</bool>
