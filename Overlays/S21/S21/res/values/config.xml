@@ -11,7 +11,7 @@
     <dimen name="rounded_corner_radius_top">38dp</dimen>
     <dimen name="rounded_corner_radius_bottom">38dp</dimen>
     <dimen name="rounded_corner_radius_adjustment">0dip</dimen>
-    <integer name="config_screenBrightnessDoze">17</integer>
+    <integer name="config_screenBrightnessDoze">38</integer>
     <bool name="config_useRoundIcon">true</bool>
     <dimen name="config_dialogCornerRadius">28dp</dimen>
     <dimen name="status_bar_camera_side_padding">0mm</dimen>
