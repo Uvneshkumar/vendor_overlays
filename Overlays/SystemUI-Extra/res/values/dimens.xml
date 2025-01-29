@@ -69,7 +69,7 @@
     <dimen name="config_rounded_mask_size">48dp</dimen>
     <!--    <integer name="volume_dialog_gravity">19</integer>-->
     <integer name="volume_dialog_gravity">21</integer>
-    <dimen name="lock_icon_margin_bottom">600px</dimen>
+    <dimen name="lock_icon_margin_bottom">660px</dimen>
 
     <!--    Pong-->
     <dimen name="keyguard_indication_margin_bottom">200.0dip</dimen>
