@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<integer name="doze_pulse_duration_in">0</integer>
+	<integer name="doze_pulse_duration_visible">0</integer>
+	<integer name="doze_pulse_duration_out">0</integer>
+</resources>
