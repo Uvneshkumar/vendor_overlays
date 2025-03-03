@@ -152,6 +152,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-midnightblue \
 	treble-overlay-charcoalblack \
 	treble-overlay-round-icon \
+	treble-overlay-aperture \
 	treble-overlay-navbar \
 	treble-overlay-navbar-systemui-a11 \
 	treble-overlay-navbar-android-a11 \
