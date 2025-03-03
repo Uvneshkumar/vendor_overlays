@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!--    Pixel 4-->
+    <dimen name="keyguard_indication_margin_bottom">40dp</dimen>
+
     <!--    Only for crDroid-->
     <dimen name="qqs_layout_padding_bottom">20dp</dimen>
     <dimen name="status_bar_padding_start">6dp</dimen>

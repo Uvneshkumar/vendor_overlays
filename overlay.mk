@@ -162,6 +162,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-pong \
 	treble-overlay-pong-framework \
 	treble-overlay-pong-aod \
+	treble-overlay-flame-aod \
 	treble-overlay-redfin \
 	treble-overlay-redfin-aod-vendor \
 	treble-overlay-redfin-color-vendor \

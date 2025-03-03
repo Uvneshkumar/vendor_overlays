@@ -7,4 +7,10 @@
     <dimen name="status_bar_height_default">90px</dimen>
     <dimen name="status_bar_height_landscape">90px</dimen>
     <dimen name="status_bar_height_portrait">90px</dimen>
+
+    <!--    Pixel 4-->
+    <dimen name="rounded_corner_radius_adjustment">0px</dimen>
+    <dimen name="rounded_corner_radius">100.0px</dimen>
+    <dimen name="rounded_corner_radius_top">100.0px</dimen>
+    <dimen name="rounded_corner_radius_bottom">100.0px</dimen>
 </resources>
