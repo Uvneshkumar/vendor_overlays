@@ -2,6 +2,9 @@
 <resources>
     <!--    Pixel 4-->
     <dimen name="keyguard_indication_margin_bottom">40dp</dimen>
+    <dimen name="config_rounded_mask_size">46dp</dimen>
+    <dimen name="config_rounded_mask_size_top">46dp</dimen>
+    <dimen name="config_rounded_mask_size_bottom">46dp</dimen>
 
     <!--    Only for crDroid-->
     <dimen name="qqs_layout_padding_bottom">20dp</dimen>
