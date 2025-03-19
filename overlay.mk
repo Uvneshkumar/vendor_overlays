@@ -173,7 +173,9 @@ PRODUCT_PACKAGES += \
 	treble-overlay-tap \
 	treble-overlay-tap-systemui \
 	treble-overlay-android-extra \
+	treble-overlay-android-extra2 \
 	treble-overlay-systemui-extra \
+	treble-overlay-systemui-extra2 \
 	treble-overlay-nothing-settings \
 	treble-overlay-launcher-overlays-pixel \
 	treble-overlay-launcher-overlays \
