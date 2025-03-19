@@ -22,6 +22,17 @@
         @left
     </string>
 
+<!--    Pixel OS-->
+<!--    <string translatable="false" name="config_mainBuiltInDisplayCutoutRectApproximation">-->
+<!--        M 0,0-->
+<!--        L 0,58-->
+<!--        L 96,58-->
+<!--        L 96,0-->
+<!--        Z-->
+<!--        @dp-->
+<!--        @left-->
+<!--    </string>-->
+
 <!--    Nameless AOSP-->
 <!--    <string translatable="false" name="config_mainBuiltInDisplayCutoutRectApproximation">-->
 <!--        M 0,0-->
