@@ -27,4 +27,7 @@
     <dimen name="page_indicator_size">0px</dimen>
     <dimen name="page_indicator_width">0px</dimen>
 
+    <dimen name="taskbar_stashed_size">16dp</dimen>
+    <dimen name="taskbar_stashed_small_screen">72dp</dimen>
+    <dimen name="taskbar_stashed_handle_height">2dp</dimen>
 </resources>
