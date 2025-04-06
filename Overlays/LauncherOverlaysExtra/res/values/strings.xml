@@ -18,6 +18,10 @@
 
     <string name="display_cutout_emulation_overlay">Uvnesh\'s Launcher Overlay Extra</string>
 
+    <!--    AOSP-->
+    <!--    <dimen name="all_apps_search_bar_content_overlap">10dp</dimen>-->
+    <!--    <dimen name="all_apps_search_bar_bottom_padding">42dp</dimen>-->
+
     <dimen name="all_apps_search_bar_content_overlap">20dp</dimen>
     <dimen name="all_apps_search_bar_bottom_padding">40dp</dimen>
     <dimen name="dynamic_grid_cell_padding_x">13dp</dimen>
