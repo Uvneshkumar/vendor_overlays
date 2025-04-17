@@ -3,7 +3,8 @@
 #adb install --bypass-low-target-sdk-block -r treble-overlay-xiaomi-sweet.apk
 #adb install --bypass-low-target-sdk-block -r treble-overlay-samsung-s20-one-ui.apk
 
-/bin/bash /home/uvnesh/IdeaProjects/vendor_overlays/build/build.sh; adb push treble-overlay-android-extra2.apk /sdcard/; adb shell su -c cp /sdcard/treble-overlay-android-extra2.apk /data/adb/modules/ndot_font/system/product/overlay/; adb reboot
+/bin/bash /home/uvnesh/IdeaProjects/vendor_overlays/build/build.sh; adb push treble-overlay-android-extra2.apk /sdcard/; adb shell su -c cp /sdcard/treble-overlay-android-extra2.apk /data/adb/modules/uvnesh_overlays/system/product/overlay/; adb reboot
+/bin/bash /home/uvnesh/IdeaProjects/vendor_overlays/build/build.sh; adb root; adb push treble-overlay-android-extra2.apk /data/adb/modules/uvnesh_overlays/system/product/overlay/; adb reboot
 
 #adb install --bypass-low-target-sdk-block -r treble-overlay-oneplus-9pro.apk
 #adb install --bypass-low-target-sdk-block -r treble-overlay-oneplus-9pro-systemui.apk
