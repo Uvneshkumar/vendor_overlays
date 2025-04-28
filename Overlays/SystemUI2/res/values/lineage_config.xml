@@ -36,6 +36,10 @@
     <dimen name="below_clock_padding_start_icons">31.0dip</dimen>
     <integer name="max_notif_icons_on_aod">10</integer>
 
+    <dimen name="enhanced_smartspace_icon_inset">0dp</dimen>
+<!--    enhanced_smartspace_height + enhanced_smartspace_icon_size-->
+    <dimen name="page_indicator_padding_top">124dp</dimen>
+
 <!--    <dimen name="notification_corner_radius">16dp</dimen>-->
 <!--    <dimen name="notification_divider_height">0dp</dimen>-->
 <!--    <dimen name="notification_children_container_divider_height">0dp</dimen>-->
