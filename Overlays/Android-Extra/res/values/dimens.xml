@@ -3,6 +3,8 @@
     <!--    Pixel 2-->
     <dimen name="config_dialogCornerRadius">8dp</dimen>
 
+    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0.0,0.0 h 1 v 90 h -1 Z</string>
+
     <dimen name="status_bar_height">90px</dimen>
     <dimen name="status_bar_height_default">90px</dimen>
     <dimen name="status_bar_height_landscape">90px</dimen>
