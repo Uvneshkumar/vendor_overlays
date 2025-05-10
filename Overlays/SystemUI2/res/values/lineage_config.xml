@@ -49,4 +49,6 @@
 <!--    <dimen name="qs_tile_height">60dp</dimen>-->
 <!--    <dimen name="notification_scrim_corner_radius">0dp</dimen>-->
 
+    <dimen name="navigation_edge_arrow_thickness">2dp</dimen>
+
 </resources>
