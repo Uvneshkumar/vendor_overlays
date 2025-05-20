@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="status_bar_height">44dp</dimen>
-    <dimen name="status_bar_height_default">44dp</dimen>
-    <dimen name="status_bar_height_portrait">44dp</dimen>
-    <dimen name="status_bar_height_landscape">44dp</dimen>
+    <dimen name="status_bar_height">102px</dimen>
+    <dimen name="status_bar_height_default">102px</dimen>
+    <dimen name="status_bar_height_portrait">102px</dimen>
+    <dimen name="status_bar_height_landscape">102px</dimen>
 </resources>
