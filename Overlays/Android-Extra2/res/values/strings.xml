@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- OnePlus 9 Pro Y Location same as OnePlus 10 Pro -->
+
     <!-- The properties of a UDFPS sensor in pixels, in the order listed below: -->
-    <integer-array name="config_udfps_sensor_props" translatable="false">
-        <item>720</item>  <!-- <item>sensorLocationX</item> -->
-        <item>2480</item> <!-- <item>sensorLocationY</item> -->
-        <item>124</item>  <!-- <item>sensorRadius</item> -->
-    </integer-array>
+    <!-- <integer-array name="config_udfps_sensor_props" translatable="false"> -->
+    <!-- <item>sensorLocationX</item> -->
+    <!-- <item>sensorLocationY</item> -->
+    <!-- <item>sensorRadius</item> -->
+    <!-- </integer-array> -->
+
+    <!-- OnePlus 9 Pro Y Location same as OnePlus 10 Pro -->
+    <!--    <integer-array name="config_udfps_sensor_props" translatable="false">-->
+    <!--        <item>720</item>-->
+    <!--        <item>2480</item>-->
+    <!--        <item>124</item>-->
+    <!--    </integer-array>-->
+
+    <!-- S23 -->
+    <!--    <integer-array name="config_udfps_sensor_props" translatable="false">-->
+    <!--        <item>540</item>-->
+    <!--        <item>1746</item>-->
+    <!--        <item>124</item>-->
+    <!--    </integer-array>-->
 </resources>

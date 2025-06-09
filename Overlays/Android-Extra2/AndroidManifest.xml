@@ -17,6 +17,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="uvnesh.android.extra2">
     <overlay android:isStatic="true" android:targetPackage="android"
-             android:priority="9999"/>
+             android:priority="0"/>
     <application android:hasCode="false"/>
 </manifest>
