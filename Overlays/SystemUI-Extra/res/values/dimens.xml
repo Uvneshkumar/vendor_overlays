@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--    Pixel 4-->
-    <dimen name="keyguard_indication_margin_bottom">40dp</dimen>
-    <dimen name="config_rounded_mask_size">46dp</dimen>
-    <dimen name="config_rounded_mask_size_top">46dp</dimen>
-    <dimen name="config_rounded_mask_size_bottom">46dp</dimen>
-
     <!--    Only for crDroid-->
     <dimen name="qqs_layout_padding_bottom">20dp</dimen>
     <dimen name="status_bar_padding_start">6dp</dimen>
@@ -19,6 +13,12 @@
     <dimen name="udfps_burn_in_offset_y">0dp</dimen>
     <dimen name="navigation_bar_burn_in_offset_max_x">0dp</dimen>
     <dimen name="navigation_bar_burn_in_offset_max_y">0dp</dimen>
+
+    <!--    Pixel 4-->
+    <dimen name="keyguard_indication_margin_bottom">40dp</dimen>
+    <dimen name="config_rounded_mask_size">46dp</dimen>
+    <dimen name="config_rounded_mask_size_top">46dp</dimen>
+    <dimen name="config_rounded_mask_size_bottom">46dp</dimen>
 
     <!--    Pixel 9 Pro XL-->
     <dimen name="config_rounded_mask_size">72.0dip</dimen>
