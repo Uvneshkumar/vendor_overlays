@@ -1,99 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!--    Only for crDroid-->
-    <dimen name="qqs_layout_padding_bottom">20dp</dimen>
-    <dimen name="status_bar_padding_start">6dp</dimen>
-    <dimen name="biometric_dialog_corner_size">8dp</dimen>
-    <dimen name="status_bar_offset_max_y">0dp</dimen>
-    <dimen name="burn_in_prevention_offset_x">0dp</dimen>
-    <dimen name="burn_in_prevention_offset_y">0dp</dimen>
-    <dimen name="burn_in_prevention_offset_y_clock">0dp</dimen>
-    <dimen name="default_burn_in_prevention_offset">0dp</dimen>
-    <dimen name="udfps_burn_in_offset_x">0dp</dimen>
-    <dimen name="udfps_burn_in_offset_y">0dp</dimen>
-    <dimen name="navigation_bar_burn_in_offset_max_x">0dp</dimen>
-    <dimen name="navigation_bar_burn_in_offset_max_y">0dp</dimen>
+    <!--    &lt;!&ndash;    Only for crDroid&ndash;&gt;-->
+    <!--    <dimen name="qqs_layout_padding_bottom">20dp</dimen>-->
+    <!--    <dimen name="status_bar_padding_start">6dp</dimen>-->
+    <!--    <dimen name="biometric_dialog_corner_size">8dp</dimen>-->
+    <!--    <dimen name="status_bar_offset_max_y">0dp</dimen>-->
+    <!--    <dimen name="burn_in_prevention_offset_x">0dp</dimen>-->
+    <!--    <dimen name="burn_in_prevention_offset_y">0dp</dimen>-->
+    <!--    <dimen name="burn_in_prevention_offset_y_clock">0dp</dimen>-->
+    <!--    <dimen name="default_burn_in_prevention_offset">0dp</dimen>-->
+    <!--    <dimen name="udfps_burn_in_offset_x">0dp</dimen>-->
+    <!--    <dimen name="udfps_burn_in_offset_y">0dp</dimen>-->
+    <!--    <dimen name="navigation_bar_burn_in_offset_max_x">0dp</dimen>-->
+    <!--    <dimen name="navigation_bar_burn_in_offset_max_y">0dp</dimen>-->
 
-    <!--    Pixel 4-->
-    <dimen name="keyguard_indication_margin_bottom">40dp</dimen>
-    <dimen name="config_rounded_mask_size">46dp</dimen>
-    <dimen name="config_rounded_mask_size_top">46dp</dimen>
-    <dimen name="config_rounded_mask_size_bottom">46dp</dimen>
+    <!--    &lt;!&ndash;    Pixel 4&ndash;&gt;-->
+    <!--    <dimen name="keyguard_indication_margin_bottom">40dp</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size">46dp</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size_top">46dp</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size_bottom">46dp</dimen>-->
 
-    <!--    Pixel 9 Pro XL-->
-    <dimen name="config_rounded_mask_size">72.0dip</dimen>
-    <dimen name="physical_power_button_center_screen_location_y">313dp</dimen>
-    <dimen name="qs_header_row_min_height">71dp</dimen>
-    <dimen name="qs_brightness_margin_top">40dp</dimen>
-    <dimen name="lock_icon_margin_bottom">238dp</dimen>
+    <!--    &lt;!&ndash;    Pixel 9 Pro XL&ndash;&gt;-->
+    <!--    <dimen name="config_rounded_mask_size">72.0dip</dimen>-->
+    <!--    <dimen name="physical_power_button_center_screen_location_y">313dp</dimen>-->
+    <!--    <dimen name="qs_header_row_min_height">71dp</dimen>-->
+    <!--    <dimen name="qs_brightness_margin_top">40dp</dimen>-->
+    <!--    <dimen name="lock_icon_margin_bottom">238dp</dimen>-->
 
-    <!--    Pixel 7 Pro-->
-    <dimen name="keyguard_indication_margin_bottom">120.0dip</dimen>
-    <dimen name="physical_power_button_center_screen_location_y">367dp</dimen>
-    <dimen name="config_rounded_mask_size">31.0dip</dimen>
-    <dimen name="config_rounded_mask_size_top">31.0dip</dimen>
-    <dimen name="config_rounded_mask_size_bottom">31.0dip</dimen>
-    <dimen name="status_bar_padding_start">10dp</dimen>
-    <dimen name="status_bar_padding_end">10dp</dimen>
+    <!--    &lt;!&ndash;    Pixel 7 Pro&ndash;&gt;-->
+    <!--    <dimen name="keyguard_indication_margin_bottom">120.0dip</dimen>-->
+    <!--    <dimen name="physical_power_button_center_screen_location_y">367dp</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size">31.0dip</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size_top">31.0dip</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size_bottom">31.0dip</dimen>-->
+    <!--    <dimen name="status_bar_padding_start">10dp</dimen>-->
+    <!--    <dimen name="status_bar_padding_end">10dp</dimen>-->
 
-    <!--    S21-->
-    <dimen name="config_rounded_mask_size">102px</dimen>
-    <dimen name="config_rounded_mask_size_top">102px</dimen>
-    <dimen name="config_rounded_mask_size_bottom">102px</dimen>
-    <dimen name="keyguard_indication_margin_bottom">80.0dip</dimen>
+    <!--    &lt;!&ndash;    S21&ndash;&gt;-->
+    <!--    <dimen name="config_rounded_mask_size">102px</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size_top">102px</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size_bottom">102px</dimen>-->
+    <!--    <dimen name="keyguard_indication_margin_bottom">80.0dip</dimen>-->
 
-    <!--    S20-->
-    <dimen name="keyguard_indication_margin_bottom">100.0dip</dimen>
-    <dimen name="qs_header_row_min_height">42dp</dimen>
-    <dimen name="physical_power_button_center_screen_location_y">950px</dimen>
-    <dimen name="config_rounded_mask_size">41dp</dimen>
-    <dimen name="config_rounded_mask_size_top">41dp</dimen>
-    <dimen name="config_rounded_mask_size_bottom">41dp</dimen>
-    <!--    For Custom ROM-->
-    <dimen name="status_bar_padding_start">8dp</dimen>
-    <dimen name="status_bar_padding_end">16dp</dimen>
+    <!--    &lt;!&ndash;    S20&ndash;&gt;-->
+    <!--    <dimen name="keyguard_indication_margin_bottom">100.0dip</dimen>-->
+    <!--    <dimen name="qs_header_row_min_height">42dp</dimen>-->
+    <!--    <dimen name="physical_power_button_center_screen_location_y">950px</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size">41dp</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size_top">41dp</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size_bottom">41dp</dimen>-->
+    <!--    &lt;!&ndash;    For Custom ROM&ndash;&gt;-->
+    <!--    <dimen name="status_bar_padding_start">8dp</dimen>-->
+    <!--    <dimen name="status_bar_padding_end">16dp</dimen>-->
 
-    <!--    Pixel 2-->
-    <dimen name="physical_power_button_center_screen_location_y">440px</dimen>
-    <dimen name="physical_fingerprint_sensor_center_screen_location_y">440px</dimen>
-    <dimen name="status_bar_padding_start">6dp</dimen>
-    <dimen name="status_bar_padding_end">6dp</dimen>
-    <dimen name="lock_icon_margin_bottom">-300dp</dimen>
-    <dimen name="keyguard_indication_margin_bottom">32dp</dimen>
+    <!--    &lt;!&ndash;    Pixel 2&ndash;&gt;-->
+    <!--    <dimen name="physical_power_button_center_screen_location_y">440px</dimen>-->
+    <!--    <dimen name="physical_fingerprint_sensor_center_screen_location_y">440px</dimen>-->
+    <!--    <dimen name="status_bar_padding_start">6dp</dimen>-->
+    <!--    <dimen name="status_bar_padding_end">6dp</dimen>-->
+    <!--    <dimen name="lock_icon_margin_bottom">-300dp</dimen>-->
+    <!--    <dimen name="keyguard_indication_margin_bottom">32dp</dimen>-->
 
-    <!--    Lemonadep-->
-    <dimen name="keyguard_indication_margin_bottom">175.0dip</dimen>
-    <dimen name="qs_header_row_min_height">55dp</dimen>
-    <dimen name="physical_power_button_center_screen_location_y">417dp</dimen>
-    <dimen name="config_rounded_mask_size">48dp</dimen>
-    <!--    <dimen name="enhanced_smartspace_height">60.0dip</dimen>-->
-    <integer name="volume_dialog_gravity">21</integer>
+    <!--    &lt;!&ndash;    Lemonadep&ndash;&gt;-->
+    <!--    <dimen name="keyguard_indication_margin_bottom">175.0dip</dimen>-->
+    <!--    <dimen name="qs_header_row_min_height">55dp</dimen>-->
+    <!--    <dimen name="physical_power_button_center_screen_location_y">417dp</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size">48dp</dimen>-->
+    <!--    &lt;!&ndash;    <dimen name="enhanced_smartspace_height">60.0dip</dimen>&ndash;&gt;-->
+    <!--    <integer name="volume_dialog_gravity">21</integer>-->
 
-    <!--    Wly-->
-    <dimen name="keyguard_indication_margin_bottom">200.0px</dimen>
-    <dimen name="qs_header_row_min_height">55dp</dimen>
-    <dimen name="physical_power_button_center_screen_location_y">960px</dimen>
-    <dimen name="config_rounded_mask_size">48dp</dimen>
-    <!--    <integer name="volume_dialog_gravity">19</integer>-->
-    <integer name="volume_dialog_gravity">21</integer>
-    <dimen name="lock_icon_margin_bottom">660px</dimen>
+    <!--    &lt;!&ndash;    Wly&ndash;&gt;-->
+    <!--    <dimen name="keyguard_indication_margin_bottom">200.0px</dimen>-->
+    <!--    <dimen name="qs_header_row_min_height">55dp</dimen>-->
+    <!--    <dimen name="physical_power_button_center_screen_location_y">960px</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size">48dp</dimen>-->
+    <!--    &lt;!&ndash;    <integer name="volume_dialog_gravity">19</integer>&ndash;&gt;-->
+    <!--    <integer name="volume_dialog_gravity">21</integer>-->
+    <!--    <dimen name="lock_icon_margin_bottom">660px</dimen>-->
 
-    <!--    Pong-->
-    <dimen name="keyguard_indication_margin_bottom">200.0dip</dimen>
-    <dimen name="qs_header_row_min_height">125px</dimen>
-    <dimen name="config_rounded_mask_size">112px</dimen>
-    <!--    Only for Nothing OS-->
-    <dimen name="clock_padding_start">28dp</dimen>
-    <dimen name="below_clock_padding_start">34dp</dimen>
-    <dimen name="below_clock_padding_start_icons">40dp</dimen>
-    <dimen name="small_clock_text_size">100dp</dimen>
-    <dimen name="status_bar_padding_end">17dp</dimen>
+    <!--    &lt;!&ndash;    Pong&ndash;&gt;-->
+    <!--    <dimen name="keyguard_indication_margin_bottom">200.0dip</dimen>-->
+    <!--    <dimen name="qs_header_row_min_height">125px</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size">112px</dimen>-->
+    <!--    &lt;!&ndash;    Only for Nothing OS&ndash;&gt;-->
+    <!--    <dimen name="clock_padding_start">28dp</dimen>-->
+    <!--    <dimen name="below_clock_padding_start">34dp</dimen>-->
+    <!--    <dimen name="below_clock_padding_start_icons">40dp</dimen>-->
+    <!--    <dimen name="small_clock_text_size">100dp</dimen>-->
+    <!--    <dimen name="status_bar_padding_end">17dp</dimen>-->
 
-    <!--    Redfin-->
-    <dimen name="qs_header_row_min_height">154px</dimen>
-    <dimen name="status_bar_padding_top">14px</dimen>
-    <dimen name="status_bar_padding_end">16dp</dimen>
-    <bool name="config_use_large_screen_shade_header">true</bool>
-    <dimen name="qs_panel_padding_top">16dp</dimen>
-    <bool name="config_enablePrivacyDot">false</bool>
+    <!--    &lt;!&ndash;    Redfin&ndash;&gt;-->
+    <!--    <dimen name="qs_header_row_min_height">154px</dimen>-->
+    <!--    <dimen name="status_bar_padding_top">14px</dimen>-->
+    <!--    <dimen name="status_bar_padding_end">16dp</dimen>-->
+    <!--    <bool name="config_use_large_screen_shade_header">true</bool>-->
+    <!--    <dimen name="qs_panel_padding_top">16dp</dimen>-->
+    <!--    <bool name="config_enablePrivacyDot">false</bool>-->
 </resources>
