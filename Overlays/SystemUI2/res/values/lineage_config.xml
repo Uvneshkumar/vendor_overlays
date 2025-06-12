@@ -50,5 +50,7 @@
 <!--    <dimen name="notification_scrim_corner_radius">0dp</dimen>-->
 
     <dimen name="navigation_edge_arrow_thickness">2dp</dimen>
+    <dimen name="navigation_edge_stretch_background_width">48dp</dimen>
+    <dimen name="navigation_edge_stretch_margin">14dp</dimen>
 
 </resources>
