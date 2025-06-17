@@ -19,7 +19,6 @@
     <string name="display_cutout_emulation_overlay">Uvnesh\'s Launcher Overlay</string>
 
     <color name="folder_preview_light">#ccffffff</color>
-    <color name="overview_button">#00000000</color>
     <dimen name="page_indicator_dot_margin">0px</dimen>
     <dimen name="page_indicator_dot_size">0px</dimen>
     <dimen name="page_indicator_dot_size_v2">0px</dimen>
