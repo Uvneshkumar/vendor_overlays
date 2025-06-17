@@ -26,7 +26,7 @@
     <dimen name="status_bar_system_icon_spacing">0dp</dimen>
     <dimen name="keyguard_affordance_vertical_offset">-300dp</dimen>
     <dimen name="lock_icon_margin_bottom">200dp</dimen>
-    <dimen name="keyguard_indication_margin_bottom">40dp</dimen>
+    <dimen name="keyguard_indication_margin_bottom">60dp</dimen>
     <dimen name="status_bar_clock_starting_padding">0dp</dimen>
     <dimen name="status_bar_left_clock_starting_padding">0dp</dimen>
     <dimen name="status_bar_clock_end_padding">4.0dip</dimen>
