@@ -95,4 +95,7 @@
     <!--    <dimen name="status_bar_padding_end">16dp</dimen>-->
     <!--    <dimen name="qs_panel_padding_top">100dp</dimen>-->
     <!--    <bool name="config_enablePrivacyDot">false</bool>-->
+    <!--    <dimen name="config_rounded_mask_size">0dp</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size_top">0dp</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size_bottom">0dp</dimen>-->
 </resources>
