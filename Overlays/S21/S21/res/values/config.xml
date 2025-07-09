@@ -16,4 +16,5 @@
     <dimen name="status_bar_camera_top_margin">0mm</dimen>
     <dimen name="status_bar_indicator_corner_padding">100.0px</dimen>
     <bool name="config_enableHapticTextHandle">true</bool>
+    <bool name="config_buttonTextAllCaps">false</bool>
 </resources>
