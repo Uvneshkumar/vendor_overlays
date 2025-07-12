@@ -15,4 +15,10 @@
     <!--    <dimen name="rounded_corner_radius">100.0px</dimen>-->
     <!--    <dimen name="rounded_corner_radius_top">100.0px</dimen>-->
     <!--    <dimen name="rounded_corner_radius_bottom">100.0px</dimen>-->
+
+    <!--    Pixel 9-->
+    <!--    <dimen name="status_bar_height">173px</dimen>-->
+    <!--    <dimen name="status_bar_height_default">173px</dimen>-->
+    <!--    <dimen name="status_bar_height_landscape">173px</dimen>-->
+    <!--    <dimen name="status_bar_height_portrait">173px</dimen>-->
 </resources>
