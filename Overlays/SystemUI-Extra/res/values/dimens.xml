@@ -24,6 +24,7 @@
     <!--    <dimen name="physical_power_button_center_screen_location_y">738px</dimen>-->
     <!--    <dimen name="qs_header_row_min_height">173px</dimen>-->
     <!--    <dimen name="qs_brightness_margin_top">40dp</dimen>-->
+    <!--    <dimen name="qs_panel_padding_top">100dp</dimen>-->
     <!--    <dimen name="lock_icon_margin_bottom">255dp</dimen>-->
 
     <!--    Pixel 9 Pro XL-->
