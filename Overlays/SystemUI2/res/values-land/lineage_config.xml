@@ -1,3 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="hover_system_icons_container_padding_end">8dp</dimen>
 </resources>
