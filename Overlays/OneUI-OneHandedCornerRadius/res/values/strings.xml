@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="onehand_default_corner_round">100px</dimen>
+    <dimen name="onehand_max_corner_round">100px</dimen>
+</resources>
