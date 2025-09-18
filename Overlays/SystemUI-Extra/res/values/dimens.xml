@@ -85,6 +85,9 @@
     <!--    <integer name="volume_dialog_gravity">21</integer>-->
     <!--    <dimen name="lock_icon_margin_bottom">660px</dimen>-->
 
+    <!--    Waffle-->
+    <!--    <dimen name="physical_power_button_center_screen_location_y">1210px</dimen>-->
+
     <!--    Pong-->
     <!--    <dimen name="keyguard_indication_margin_bottom">200.0dip</dimen>-->
     <!--    <dimen name="qs_header_row_min_height">125px</dimen>-->
