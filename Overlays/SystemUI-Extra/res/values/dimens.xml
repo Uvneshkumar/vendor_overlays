@@ -47,7 +47,7 @@
     <!--    <dimen name="config_rounded_mask_size">102px</dimen>-->
     <!--    <dimen name="config_rounded_mask_size_top">102px</dimen>-->
     <!--    <dimen name="config_rounded_mask_size_bottom">102px</dimen>-->
-    <!--    <dimen name="physical_power_button_center_screen_location_y">980.0px</dimen>-->
+    <!--    <dimen name="physical_power_button_center_screen_location_y">966.0px</dimen>-->
 
     <!--    S20-->
     <!--    <dimen name="keyguard_indication_margin_bottom">100.0dip</dimen>-->
