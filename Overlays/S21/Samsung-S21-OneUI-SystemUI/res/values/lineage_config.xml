@@ -4,8 +4,5 @@
     <dimen name="status_bar_padding_start">25dp</dimen>
     <dimen name="status_bar_padding_end">25dp</dimen>
     <dimen name="rounded_corner_content_padding">60.0px</dimen>
-    <dimen name="keyguard_indication_margin_bottom">50.0dip</dimen>
-    <dimen name="status_bar_header_height_keyguard">100px</dimen>
-    <dimen name="physical_power_button_center_screen_location_y">970px</dimen>
-    <dimen name="physical_fingerprint_sensor_center_screen_location_y">610px</dimen>
+    <dimen name="status_bar_header_height_keyguard">110px</dimen>
 </resources>
