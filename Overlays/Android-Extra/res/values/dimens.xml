@@ -28,4 +28,18 @@
     <!--    <dimen name="rounded_corner_radius">112.0px</dimen>-->
     <!--    <dimen name="rounded_corner_radius_top">112.0px</dimen>-->
     <!--    <dimen name="rounded_corner_radius_bottom">112.0px</dimen>-->
+
+    <!--    Asphalt -->
+    <!--    <dimen name="config_dialogCornerRadius">14.0dip</dimen>-->
+    <!--    <bool name="config_enableHapticTextHandle">true</bool>-->
+    <!--    <dimen name="status_bar_height">90.0px</dimen>-->
+    <!--    <dimen name="status_bar_height_default">90.0px</dimen>-->
+    <!--    <dimen name="status_bar_height_landscape">90.0px</dimen>-->
+    <!--    <dimen name="status_bar_height_portrait">90.0px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_adjustment">0.0px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_adjustment_top">0.0px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_adjustment_bottom">0.0px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius">32.0px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_top">32.0px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_bottom">32.0px</dimen>-->
 </resources>

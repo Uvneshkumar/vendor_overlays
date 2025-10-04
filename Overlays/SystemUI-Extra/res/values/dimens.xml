@@ -108,4 +108,13 @@
     <!--    <dimen name="config_rounded_mask_size">0dp</dimen>-->
     <!--    <dimen name="config_rounded_mask_size_top">0dp</dimen>-->
     <!--    <dimen name="config_rounded_mask_size_bottom">0dp</dimen>-->
+
+    <!--    Asphalt-->
+    <!--    <dimen name="physical_power_button_center_screen_location_y">695px</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size">32px</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size_top">32px</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size_bottom">32px</dimen>-->
+    <!--    <integer name="quick_qs_panel_max_tiles">4</integer>-->
+    <!--    <integer name="quick_settings_max_rows">4</integer>-->
+    <!--    <integer name="quick_settings_num_columns">2</integer>-->
 </resources>
