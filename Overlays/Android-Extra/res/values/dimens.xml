@@ -22,13 +22,6 @@
     <!--    <dimen name="status_bar_height_landscape">173px</dimen>-->
     <!--    <dimen name="status_bar_height_portrait">173px</dimen>-->
 
-    <!--    Waffle-->
-    <!--    <integer name="config_screenBrightnessDoze">70</integer>-->
-    <!--    <item name="config_screenBrightnessDozeFloat" format="float" type="dimen">-2</item>-->
-    <!--    <dimen name="rounded_corner_radius">112.0px</dimen>-->
-    <!--    <dimen name="rounded_corner_radius_top">112.0px</dimen>-->
-    <!--    <dimen name="rounded_corner_radius_bottom">112.0px</dimen>-->
-
     <!--    Asphalt -->
     <!--    <dimen name="config_dialogCornerRadius">14.0dip</dimen>-->
     <!--    <bool name="config_enableHapticTextHandle">true</bool>-->

@@ -1,0 +1,28 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <dimen name="config_dialogCornerRadius">28dp</dimen>
+    <string translatable="false" name="config_mainBuiltInDisplayCutout">
+        M 0,80
+        M -42,80
+        A 34,34 90 1,0 42,80
+        A 34,34 90 1,0 -42,80
+        Z
+    </string>
+    <string translatable="false" name="config_mainBuiltInDisplayCutoutRectApproximation">
+        M -38,0
+        L -38,160
+        L 38,160
+        L 38,0
+        Z
+    </string>
+    <bool name="config_fillMainBuiltInDisplayCutout">true</bool>
+    <dimen name="status_bar_height">160px</dimen>
+    <dimen name="status_bar_height_default">160px</dimen>
+    <dimen name="status_bar_height_landscape">160px</dimen>
+    <dimen name="status_bar_height_portrait">160px</dimen>
+    <integer name="config_screenBrightnessDoze">70</integer>
+    <item name="config_screenBrightnessDozeFloat" format="float" type="dimen">-2</item>
+    <dimen name="rounded_corner_radius">112.0px</dimen>
+    <dimen name="rounded_corner_radius_top">112.0px</dimen>
+    <dimen name="rounded_corner_radius_bottom">112.0px</dimen>
+    <bool name="config_buttonTextAllCaps">false</bool>
+</resources>
