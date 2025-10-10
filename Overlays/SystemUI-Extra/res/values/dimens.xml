@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <!--    Android 16 QPR1+ -->
+    <!--    <item type="dimen" name="max_shade_content_blur_radius">@dimen/max_window_blur_radius</item>-->
+    <!--    <item type="dimen" name="max_shade_content_blur_radius_x">@dimen/max_window_blur_radius</item>-->
+    <!--    <item type="dimen" name="max_shade_window_blur_radius">@dimen/max_window_blur_radius</item>-->
+    <!--    <item type="dimen" name="max_shade_window_blur_radius_x">@dimen/max_window_blur_radius</item>-->
+    <!--    <dimen name="max_window_blur_radius">30.0px</dimen>-->
+    <!--    <dimen name="max_window_blur_radius_x">30.0px</dimen>-->
+
     <!--    Only for crDroid-->
     <!--    <dimen name="qqs_layout_padding_bottom">20dp</dimen>-->
     <!--    <dimen name="status_bar_padding_start">6dp</dimen>-->

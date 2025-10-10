@@ -29,4 +29,10 @@
     <dimen name="taskbar_stashed_size">16dp</dimen>
     <dimen name="taskbar_stashed_small_screen">72dp</dimen>
     <dimen name="taskbar_stashed_handle_height">2dp</dimen>
+
+    <!--    Android 16 QPR1+ -->
+    <!--    <dimen name="min_depth_blur_radius_enhanced">30px</dimen>-->
+    <!--    <dimen name="max_depth_blur_radius_enhanced">30px</dimen>-->
+    <!--    <dimen name="wallpaper_reveal_blur_radius">30px</dimen>-->
+    <!--    <integer name="max_depth_blur_radius">30</integer>-->
 </resources>
