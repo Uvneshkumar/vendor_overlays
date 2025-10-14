@@ -173,6 +173,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-rmx10proplus \
 	treble-overlay-tap \
 	treble-overlay-tap-systemui \
+	treble-overlay-cts \
 	treble-overlay-android-extra \
 	treble-overlay-android-extra2 \
 	treble-overlay-systemui-extra \

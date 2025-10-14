@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_defaultContextualSearchEnabled">omni.enable_cs_helper</string>
+    <string name="config_defaultContextualSearchKey">omni.entry_point</string>
+    <string name="config_defaultContextualSearchLegacyEnabled">omni.enable_vis</string>
+    <string name="config_defaultContextualSearchPackageName">com.google.android.googlequicksearchbox</string>
+</resources>
