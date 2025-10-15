@@ -18,8 +18,7 @@
           package="uvnesh.cts"
           android:versionCode="1"
           android:versionName="1.0">
-    <overlay android:targetPackage="android"
-             android:priority="1"/>
-
+    <overlay android:isStatic="true" android:targetPackage="android"
+        android:priority="1337"/>
     <application android:hasCode="false"/>
 </manifest>
