@@ -10,7 +10,6 @@
     <dimen name="rounded_corner_radius_top">100px</dimen>
     <dimen name="rounded_corner_radius_bottom">100px</dimen>
     <dimen name="rounded_corner_radius_adjustment">0px</dimen>
-    <integer name="config_screenBrightnessDoze">10</integer>
     <dimen name="config_dialogCornerRadius">28dp</dimen>
     <dimen name="status_bar_camera_side_padding">0mm</dimen>
     <dimen name="status_bar_camera_top_margin">0mm</dimen>

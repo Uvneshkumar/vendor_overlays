@@ -3,4 +3,7 @@
     <!--    AOD Additional Link - https://cs.android.com/android/platform/superproject/main/+/main:device/google/redfin/redfin/overlay/frameworks/base/packages/SystemUI/res/values/config.xml?q=config_doze_brightness_sensor_to_brightness&ss=android%2Fplatform%2Fsuperproject%2Fmain#:~:text=name%3D%22-,config_doze_brightness_sensor_to_brightness,-%22%3E-->
     <integer name="config_screenBrightnessDoze">190</integer>
     <item name="config_screenBrightnessDozeFloat" format="float" type="dimen">-2</item>
+    <integer name="config_screenBrightnessDim">190</integer>
+    <item name="config_screenBrightnessDimFloat" format="float" type="dimen">-2</item>
+    <integer name="config_screenBrightnessDark">190</integer>
 </resources>

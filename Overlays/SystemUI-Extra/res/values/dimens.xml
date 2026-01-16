@@ -52,11 +52,22 @@
     <!--    <dimen name="status_bar_padding_start">10dp</dimen>-->
     <!--    <dimen name="status_bar_padding_end">10dp</dimen>-->
 
-    <!--    S21-->
+    <!--    S25-->
+    <!--    <dimen name="qs_header_row_min_height">110px</dimen>-->
     <!--    <dimen name="config_rounded_mask_size">102px</dimen>-->
     <!--    <dimen name="config_rounded_mask_size_top">102px</dimen>-->
     <!--    <dimen name="config_rounded_mask_size_bottom">102px</dimen>-->
     <!--    <dimen name="physical_power_button_center_screen_location_y">966.0px</dimen>-->
+    <!--    <dimen name="status_bar_padding_start">22dp</dimen>-->
+    <!--    <dimen name="lock_icon_margin_bottom">166dp</dimen>-->
+
+    <!--    Edge 70-->
+    <!--    <dimen name="qs_header_row_min_height">160px</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size">102px</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size_top">102px</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size_bottom">102px</dimen>-->
+    <!--    <dimen name="physical_power_button_center_screen_location_y">1100px</dimen>-->
+    <!--    <dimen name="status_bar_padding_start">22dp</dimen>-->
 
     <!--    S20-->
     <!--    <dimen name="keyguard_indication_margin_bottom">100.0dip</dimen>-->
