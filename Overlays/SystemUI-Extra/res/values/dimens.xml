@@ -78,15 +78,12 @@
     <!--    <dimen name="status_bar_padding_start">22dp</dimen>-->
 
     <!--    S20-->
-    <!--    <dimen name="keyguard_indication_margin_bottom">100.0dip</dimen>-->
-    <!--    <dimen name="qs_header_row_min_height">42dp</dimen>-->
-    <!--    <dimen name="physical_power_button_center_screen_location_y">950px</dimen>-->
-    <!--    <dimen name="config_rounded_mask_size">41dp</dimen>-->
-    <!--    <dimen name="config_rounded_mask_size_top">41dp</dimen>-->
-    <!--    <dimen name="config_rounded_mask_size_bottom">41dp</dimen>-->
-    <!--    &lt;!&ndash;    For Custom ROM&ndash;&gt;-->
-    <!--    <dimen name="status_bar_padding_start">8dp</dimen>-->
-    <!--    <dimen name="status_bar_padding_end">16dp</dimen>-->
+    <!--    <dimen name="qs_header_row_min_height">100px</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size">100px</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size_top">100px</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size_bottom">100px</dimen>-->
+    <!--    <dimen name="physical_power_button_center_screen_location_y">978px</dimen>-->
+    <!--    <dimen name="status_bar_padding_start">20dp</dimen>-->
 
     <!--    Pixel 2-->
     <!--    <dimen name="physical_power_button_center_screen_location_y">440px</dimen>-->
