@@ -176,6 +176,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-cts \
 	treble-overlay-android-extra \
 	treble-overlay-android-extra2 \
+	treble-overlay-android-sym-def-app-icon \
 	treble-overlay-systemui-extra \
 	treble-overlay-systemui-extra2 \
 	treble-overlay-nothing-settings \
