@@ -32,11 +32,15 @@ fi
 
 cd "$script_dir"
 
+allowed_names=(
+  "treble-overlay-systemui-extra"
+  "treble-overlay-oneplus-9"
+)
 echo "$makes" | while read -r f;do
     name="$(sed -nE 's/LOCAL_PACKAGE_NAME.*:\=\s*(.*)/\1/p' "$f")"
     name="${name// }"
     grep -q treble-overlay <<<"$name" || continue
-#    if [ "$name" != "treble-overlay-launcher-overlays-pixel" ]; then continue; fi
+#    if [[ ! " ${allowed_names[*]} " =~ " $name " ]]; then continue; fi
     echo "Generating $name"
 
     path="$(dirname "$f")"
