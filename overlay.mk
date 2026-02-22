@@ -74,6 +74,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oneplus-8pro \
 	treble-overlay-oneplus-8pro-systemui \
 	treble-overlay-oneplus-12 \
+	treble-overlay-oneplus-9 \
 	treble-overlay-oneplus-9pro \
 	treble-overlay-oneplus-9pro-systemui \
 	treble-overlay-pixel6pro \
