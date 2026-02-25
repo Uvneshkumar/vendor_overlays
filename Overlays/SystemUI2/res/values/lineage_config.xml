@@ -59,6 +59,7 @@
 
 <!--    <dimen name="smartspace_padding_horizontal">28dp</dimen>-->
     <bool name="config_vibrateOnIconAnimation">true</bool>
+    <bool name="config_autoExpandFirstNotification">true</bool>
 
     <dimen name="status_bar_clock_size">15.809937dip</dimen>
 
