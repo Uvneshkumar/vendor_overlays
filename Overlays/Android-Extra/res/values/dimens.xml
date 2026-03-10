@@ -22,6 +22,12 @@
     <!--    <dimen name="status_bar_height_landscape">173px</dimen>-->
     <!--    <dimen name="status_bar_height_portrait">173px</dimen>-->
 
+    <!--    Pixel 9 Pro-->
+    <!--    <dimen name="status_bar_height">204px</dimen>-->
+    <!--    <dimen name="status_bar_height_default">204px</dimen>-->
+    <!--    <dimen name="status_bar_height_landscape">204px</dimen>-->
+    <!--    <dimen name="status_bar_height_portrait">204px</dimen>-->
+
     <!--    Waffle-->
     <!--    <integer name="config_screenBrightnessDoze">70</integer>-->
     <!--    <item name="config_screenBrightnessDozeFloat" format="float" type="dimen">-2</item>-->

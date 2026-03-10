@@ -4,4 +4,10 @@
     <!--    <dimen name="status_bar_height_default">90px</dimen>-->
     <!--    <dimen name="status_bar_height_landscape">90px</dimen>-->
     <!--    <dimen name="status_bar_height_portrait">90px</dimen>-->
+
+    <!--    Pixel 9 Pro-->
+    <!--    <dimen name="status_bar_height">204px</dimen>-->
+    <!--    <dimen name="status_bar_height_default">204px</dimen>-->
+    <!--    <dimen name="status_bar_height_landscape">204px</dimen>-->
+    <!--    <dimen name="status_bar_height_portrait">204px</dimen>-->
 </resources>
