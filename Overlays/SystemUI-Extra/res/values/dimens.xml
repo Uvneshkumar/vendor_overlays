@@ -42,7 +42,7 @@
     <!--    <dimen name="qs_header_row_min_height">204px</dimen>-->
     <!--    <dimen name="qs_brightness_margin_top">40dp</dimen>-->
     <!--    <dimen name="qs_panel_padding_top">100dp</dimen>-->
-    <!--    <dimen name="lock_icon_margin_bottom">-300dp</dimen>-->
+    <!--    <dimen name="lock_icon_margin_bottom">672px</dimen>-->
     <!--    <dimen name="status_bar_padding_start">22dp</dimen>-->
 
     <!--    Pixel 9 Pro XL-->
