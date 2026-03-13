@@ -27,6 +27,9 @@
     <!--    <dimen name="status_bar_height_default">204px</dimen>-->
     <!--    <dimen name="status_bar_height_landscape">204px</dimen>-->
     <!--    <dimen name="status_bar_height_portrait">204px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius">176px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_top">176px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_bottom">176px</dimen>-->
 
     <!--    Waffle-->
     <!--    <integer name="config_screenBrightnessDoze">70</integer>-->
