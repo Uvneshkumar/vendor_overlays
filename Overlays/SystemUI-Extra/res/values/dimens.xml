@@ -28,6 +28,7 @@
     <!--    <dimen name="config_rounded_mask_size">46dp</dimen>-->
     <!--    <dimen name="config_rounded_mask_size_top">46dp</dimen>-->
     <!--    <dimen name="config_rounded_mask_size_bottom">46dp</dimen>-->
+    <!--    <dimen name="status_bar_padding_start">22dp</dimen>-->
 
     <!--    Pixel 9-->
     <!--    <dimen name="physical_power_button_center_screen_location_y">738px</dimen>-->
