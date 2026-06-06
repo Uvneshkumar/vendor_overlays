@@ -32,7 +32,7 @@
 
     <!--    Pixel 8-->
     <!--    <dimen name="qs_header_row_min_height">132px</dimen>-->
-    <!--    <dimen name="config_rounded_mask_size">118px</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size">120px</dimen>-->
     <!--    <dimen name="status_bar_padding_start">22dp</dimen>-->
 
     <!--    Pixel 9-->
