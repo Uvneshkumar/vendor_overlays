@@ -21,12 +21,6 @@
     <!--    <dimen name="status_bar_height_default">132px</dimen>-->
     <!--    <dimen name="status_bar_height_landscape">132px</dimen>-->
     <!--    <dimen name="status_bar_height_portrait">132px</dimen>-->
-    <!--    <dimen name="rounded_corner_radius">98px</dimen>-->
-    <!--    <dimen name="rounded_corner_radius_top">98px</dimen>-->
-    <!--    <dimen name="rounded_corner_radius_bottom">98px</dimen>-->
-    <!--    <dimen name="rounded_corner_radius_adjustment">0px</dimen>-->
-    <!--    <dimen name="rounded_corner_radius_top_adjustment">0px</dimen>-->
-    <!--    <dimen name="rounded_corner_radius_bottom_adjustment">0px</dimen>-->
 
     <!--    Pixel 9-->
     <!--    <dimen name="status_bar_height">173px</dimen>-->

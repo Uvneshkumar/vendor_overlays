@@ -21,4 +21,12 @@
     <!--        <item>1746</item>-->
     <!--        <item>124</item>-->
     <!--    </integer-array>-->
+
+    <!--    Pixel 8-->
+    <!--    <dimen name="rounded_corner_radius">98px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_top">98px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_bottom">98px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_adjustment">0px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_top_adjustment">0px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_bottom_adjustment">0px</dimen>-->
 </resources>
