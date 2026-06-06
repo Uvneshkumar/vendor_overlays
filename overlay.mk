@@ -189,6 +189,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-android-noburnin \
 	treble-overlay-android-screenshot-no-sound \
 	treble-overlay-one-ui-one-handed-corner-radius \
+	treble-overlay-wallpaper-picker \
 
 
 PRODUCT_PACKAGES += \
