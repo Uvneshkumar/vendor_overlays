@@ -18,7 +18,7 @@
           package="uvnesh.android"
           android:versionCode="1"
           android:versionName="1.0">
-    <overlay android:targetPackage="android"
+    <overlay android:targetPackage="android" android:isStatic="true"
              android:category="com.android.internal.display_cutout_emulation"
              android:priority="10"/>
 
