@@ -5,6 +5,12 @@
     <!--    <dimen name="status_bar_height_landscape">90px</dimen>-->
     <!--    <dimen name="status_bar_height_portrait">90px</dimen>-->
 
+    <!--    Pixel 8-->
+    <!--    <dimen name="status_bar_height">132px</dimen>-->
+    <!--    <dimen name="status_bar_height_default">132px</dimen>-->
+    <!--    <dimen name="status_bar_height_landscape">132px</dimen>-->
+    <!--    <dimen name="status_bar_height_portrait">132px</dimen>-->
+
     <!--    Pixel 9 Pro-->
     <!--    <dimen name="status_bar_height">204px</dimen>-->
     <!--    <dimen name="status_bar_height_default">204px</dimen>-->

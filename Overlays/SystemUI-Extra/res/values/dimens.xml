@@ -30,6 +30,11 @@
     <!--    <dimen name="config_rounded_mask_size_bottom">46dp</dimen>-->
     <!--    <dimen name="status_bar_padding_start">22dp</dimen>-->
 
+    <!--    Pixel 8-->
+    <!--    <dimen name="qs_header_row_min_height">132px</dimen>-->
+    <!--    <dimen name="config_rounded_mask_size">118px</dimen>-->
+    <!--    <dimen name="status_bar_padding_start">22dp</dimen>-->
+
     <!--    Pixel 9-->
     <!--    <dimen name="physical_power_button_center_screen_location_y">738px</dimen>-->
     <!--    <dimen name="qs_header_row_min_height">173px</dimen>-->
