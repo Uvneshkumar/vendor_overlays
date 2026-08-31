@@ -35,4 +35,9 @@
     <!--    <dimen name="max_depth_blur_radius_enhanced">30px</dimen>-->
     <!--    <dimen name="wallpaper_reveal_blur_radius">30px</dimen>-->
     <!--    <integer name="max_depth_blur_radius">30</integer>-->
+
+    <!--    <color name="widget_picker_blur_fallback_light">#DADADA</color>-->
+    <!--    <color name="widget_picker_blur_fallback_dark">#131313</color>-->
+    <color name="widget_picker_blur_fallback_light">#DBDAD9</color>
+    <color name="widget_picker_blur_fallback_dark">#121414</color>
 </resources>
