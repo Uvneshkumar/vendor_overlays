@@ -33,9 +33,12 @@ fi
 cd "$script_dir"
 
 allowed_names=(
-  "treble-overlay-android-extra"
-  "treble-overlay-systemui-extra"
   "treble-overlay-samsung-s21"
+  "treble-overlay-android-extra"
+  "treble-overlay-android-extra2"
+  "treble-overlay-systemui2"
+  "treble-overlay-systemui-extra"
+  "treble-overlay-launcher-overlays-pixel"
 )
 echo "$makes" | while read -r f;do
     name="$(sed -nE 's/LOCAL_PACKAGE_NAME.*:\=\s*(.*)/\1/p' "$f")"
