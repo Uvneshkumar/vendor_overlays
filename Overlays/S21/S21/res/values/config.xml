@@ -16,4 +16,15 @@
     <dimen name="status_bar_indicator_corner_padding">100.0px</dimen>
     <bool name="config_enableHapticTextHandle">true</bool>
     <bool name="config_buttonTextAllCaps">false</bool>
+
+    <!--    Signature-->
+    <!--    <string name="config_mainBuiltInDisplayCutout">M 0,0 H -10 V 152 H 10 V 0 H 0 Z</string>-->
+    <!--    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,0 H -10 V 152 H 10 V 0 H 0 Z</string>-->
+    <!--    <dimen name="status_bar_height">152px</dimen>-->
+    <!--    <dimen name="status_bar_height_default">152px</dimen>-->
+    <!--    <dimen name="status_bar_height_portrait">152px</dimen>-->
+    <!--    <dimen name="status_bar_height_landscape">152px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius">106px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_top">106px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_bottom">106px</dimen>-->
 </resources>

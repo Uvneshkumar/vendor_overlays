@@ -4,4 +4,10 @@
     <dimen name="status_bar_height_default">110px</dimen>
     <dimen name="status_bar_height_portrait">110px</dimen>
     <dimen name="status_bar_height_landscape">110px</dimen>
+
+    <!--    Signature-->
+    <!--    <dimen name="status_bar_height">152px</dimen>-->
+    <!--    <dimen name="status_bar_height_default">152px</dimen>-->
+    <!--    <dimen name="status_bar_height_portrait">152px</dimen>-->
+    <!--    <dimen name="status_bar_height_landscape">152px</dimen>-->
 </resources>
