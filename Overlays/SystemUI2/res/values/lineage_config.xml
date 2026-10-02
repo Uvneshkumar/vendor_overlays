@@ -64,4 +64,5 @@
     <dimen name="status_bar_clock_size">15.809937dip</dimen>
 
     <color name="shade_panel_fallback">#D0D0D0</color>
+    <color name="bouncer_fallback_bg">#D0D0D0</color>
 </resources>
