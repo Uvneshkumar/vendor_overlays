@@ -2,4 +2,8 @@
 <resources>
     <dimen name="onehand_default_corner_round">100px</dimen>
     <dimen name="onehand_max_corner_round">100px</dimen>
+
+    <!--    Fold 6-->
+    <!--    <dimen name="onehand_default_corner_round">12px</dimen>-->
+    <!--    <dimen name="onehand_max_corner_round">12px</dimen>-->
 </resources>

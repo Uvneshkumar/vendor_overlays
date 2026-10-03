@@ -17,6 +17,39 @@
     <bool name="config_enableHapticTextHandle">true</bool>
     <bool name="config_buttonTextAllCaps">false</bool>
 
+    <!--    Fold 6-->
+    <!--    <string name="config_mainBuiltInDisplayCutout" />-->
+    <!--    <string name="config_mainBuiltInDisplayCutoutRectApproximation" />-->
+    <!--    <string name="config_secondaryBuiltInDisplayCutout">M 0,0 H -10 V 110 H 10 V 0 H 0 Z</string>-->
+    <!--    <string name="config_secondaryBuiltInDisplayCutoutRectApproximation">M 0,0 H -10 V 110 H 10 V 0 H 0 Z</string>-->
+    <!--    <string name="config_subBuiltInDisplayCutout">M 0,0 H -10 V 110 H 10 V 0 H 0 Z</string>-->
+    <!--    <string name="config_subBuiltInDisplayCutoutRectApproximation">M 0,0 H -10 V 110 H 10 V 0 H 0 Z</string>-->
+    <!--    <bool name="config_fillMainBuiltInDisplayCutout">false</bool>-->
+    <!--    <dimen name="status_bar_height">110px</dimen>-->
+    <!--    <dimen name="status_bar_height_default">110px</dimen>-->
+    <!--    <dimen name="status_bar_height_portrait">110px</dimen>-->
+    <!--    <dimen name="status_bar_height_landscape">110px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius">12px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_top">12px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_bottom">12px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_adjustment">0px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_adjustment_top">0px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_adjustment_bottom">0px</dimen>-->
+    <!--    <dimen name="secondary_rounded_corner_radius">12px</dimen>-->
+    <!--    <dimen name="secondary_rounded_corner_radius_top">12px</dimen>-->
+    <!--    <dimen name="secondary_rounded_corner_radius_bottom">12px</dimen>-->
+    <!--    <dimen name="secondary_rounded_corner_radius_adjustment">0px</dimen>-->
+    <!--    <dimen name="secondary_rounded_corner_radius_top_adjustment">0px</dimen>-->
+    <!--    <dimen name="secondary_rounded_corner_radius_bottom_adjustment">0px</dimen>-->
+    <!--    <dimen name="config_dialogCornerRadius">8dp</dimen>-->
+    <!--    <bool name="config_enableHapticTextHandle">true</bool>-->
+    <!--    <bool name="config_buttonTextAllCaps">false</bool>-->
+    <!--    <dimen name="status_bar_camera_bottom_margin">0px</dimen>-->
+    <!--    <dimen name="status_bar_camera_side_padding">0px</dimen>-->
+    <!--    <dimen name="status_bar_camera_top_margin">0px</dimen>-->
+    <!--    <dimen name="status_bar_indicator_corner_padding">70.0px</dimen>-->
+    <!--    <dimen name="physical_power_button_center_screen_location_y">1100.0px</dimen>-->
+
     <!--    Signature-->
     <!--    <string name="config_mainBuiltInDisplayCutout">M 0,0 H -10 V 152 H 10 V 0 H 0 Z</string>-->
     <!--    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,0 H -10 V 152 H 10 V 0 H 0 Z</string>-->

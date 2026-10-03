@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Fold 6-->
+    <!--    <dimen name="status_bar_camera_bottom_margin">0px</dimen>-->
+    <!--    <dimen name="status_bar_camera_side_padding">0px</dimen>-->
+    <!--    <dimen name="status_bar_camera_top_margin">0px</dimen>-->
+    <!--    106 for Inner Display-->
+    <!--    <dimen name="status_bar_height">106px</dimen>-->
+    <!--    <dimen name="status_bar_height_default">106px</dimen>-->
+    <!--    <dimen name="status_bar_height_portrait">106px</dimen>-->
+    <!--    <dimen name="status_bar_height_landscape">106px</dimen>-->
+    <!--    <dimen name="status_bar_indicator_corner_padding">70.0px</dimen>-->
+</resources>

@@ -5,6 +5,12 @@
     <dimen name="status_bar_height_portrait">110px</dimen>
     <dimen name="status_bar_height_landscape">110px</dimen>
 
+    <!--    Fold 6-->
+    <!--    <dimen name="status_bar_height">110px</dimen>-->
+    <!--    <dimen name="status_bar_height_default">110px</dimen>-->
+    <!--    <dimen name="status_bar_height_portrait">110px</dimen>-->
+    <!--    <dimen name="status_bar_height_landscape">110px</dimen>-->
+
     <!--    Signature-->
     <!--    <dimen name="status_bar_height">152px</dimen>-->
     <!--    <dimen name="status_bar_height_default">152px</dimen>-->
