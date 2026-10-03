@@ -57,4 +57,18 @@
     <!--    <dimen name="rounded_corner_radius">32.0px</dimen>-->
     <!--    <dimen name="rounded_corner_radius_top">32.0px</dimen>-->
     <!--    <dimen name="rounded_corner_radius_bottom">32.0px</dimen>-->
+
+    <!--    Xperia 5 III-->
+    <!--    <dimen name="config_dialogCornerRadius">8dp</dimen>-->
+    <!--    <bool name="config_enableHapticTextHandle">true</bool>-->
+    <!--    <dimen name="status_bar_height">100.0px</dimen>-->
+    <!--    <dimen name="status_bar_height_default">100.0px</dimen>-->
+    <!--    <dimen name="status_bar_height_landscape">100.0px</dimen>-->
+    <!--    <dimen name="status_bar_height_portrait">100.0px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_adjustment">0.0px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_adjustment_top">0.0px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_adjustment_bottom">0.0px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius">20.0px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_top">20.0px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_bottom">20.0px</dimen>-->
 </resources>
