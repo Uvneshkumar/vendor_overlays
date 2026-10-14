@@ -42,6 +42,7 @@
     <!--    <dimen name="qs_brightness_margin_top">40dp</dimen>-->
     <!--    <dimen name="qs_panel_padding_top">100dp</dimen>-->
     <!--    <dimen name="lock_icon_margin_bottom">255dp</dimen>-->
+    <!--    <dimen name="status_bar_padding_start">22dp</dimen>-->
 
     <!--    Pixel 9 Pro-->
     <!--    <dimen name="config_rounded_mask_size">200px</dimen>-->
