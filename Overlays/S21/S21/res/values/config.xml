@@ -1,21 +1,29 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="config_mainBuiltInDisplayCutout">M 0,0 H -10 V 110 H 10 V 0 H 0 Z</string>
-    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,0 H -10 V 110 H 10 V 0 H 0 Z</string>
-    <bool name="config_fillMainBuiltInDisplayCutout">false</bool>
-    <dimen name="status_bar_height">110px</dimen>
-    <dimen name="status_bar_height_default">110px</dimen>
-    <dimen name="status_bar_height_portrait">110px</dimen>
-    <dimen name="status_bar_height_landscape">110px</dimen>
-    <dimen name="rounded_corner_radius">100px</dimen>
-    <dimen name="rounded_corner_radius_top">100px</dimen>
-    <dimen name="rounded_corner_radius_bottom">100px</dimen>
+    <!--    Common-->
     <dimen name="rounded_corner_radius_adjustment">0px</dimen>
+    <dimen name="rounded_corner_radius_adjustment_top">0px</dimen>
+    <dimen name="rounded_corner_radius_adjustment_bottom">0px</dimen>
+    <dimen name="secondary_rounded_corner_radius_adjustment">0px</dimen>
+    <dimen name="secondary_rounded_corner_radius_top_adjustment">0px</dimen>
+    <dimen name="secondary_rounded_corner_radius_bottom_adjustment">0px</dimen>
     <dimen name="config_dialogCornerRadius">28dp</dimen>
-    <dimen name="status_bar_camera_side_padding">0mm</dimen>
-    <dimen name="status_bar_camera_top_margin">0mm</dimen>
-    <dimen name="status_bar_indicator_corner_padding">100.0px</dimen>
     <bool name="config_enableHapticTextHandle">true</bool>
     <bool name="config_buttonTextAllCaps">false</bool>
+
+    <!--    S25-->
+    <!--    <string name="config_mainBuiltInDisplayCutout">M 0,0 H -10 V 110 H 10 V 0 H 0 Z</string>-->
+    <!--    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,0 H -10 V 110 H 10 V 0 H 0 Z</string>-->
+    <!--    <bool name="config_fillMainBuiltInDisplayCutout">false</bool>-->
+    <!--    <dimen name="status_bar_height">110px</dimen>-->
+    <!--    <dimen name="status_bar_height_default">110px</dimen>-->
+    <!--    <dimen name="status_bar_height_portrait">110px</dimen>-->
+    <!--    <dimen name="status_bar_height_landscape">110px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius">100px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_top">100px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_bottom">100px</dimen>-->
+    <!--    <dimen name="status_bar_camera_side_padding">0mm</dimen>-->
+    <!--    <dimen name="status_bar_camera_top_margin">0mm</dimen>-->
+    <!--    <dimen name="status_bar_indicator_corner_padding">100.0px</dimen>-->
 
     <!--    Fold 6-->
     <!--    <string name="config_mainBuiltInDisplayCutout" />-->
@@ -32,27 +40,21 @@
     <!--    <dimen name="rounded_corner_radius">12px</dimen>-->
     <!--    <dimen name="rounded_corner_radius_top">12px</dimen>-->
     <!--    <dimen name="rounded_corner_radius_bottom">12px</dimen>-->
-    <!--    <dimen name="rounded_corner_radius_adjustment">0px</dimen>-->
-    <!--    <dimen name="rounded_corner_radius_adjustment_top">0px</dimen>-->
-    <!--    <dimen name="rounded_corner_radius_adjustment_bottom">0px</dimen>-->
     <!--    <dimen name="secondary_rounded_corner_radius">12px</dimen>-->
     <!--    <dimen name="secondary_rounded_corner_radius_top">12px</dimen>-->
     <!--    <dimen name="secondary_rounded_corner_radius_bottom">12px</dimen>-->
-    <!--    <dimen name="secondary_rounded_corner_radius_adjustment">0px</dimen>-->
-    <!--    <dimen name="secondary_rounded_corner_radius_top_adjustment">0px</dimen>-->
-    <!--    <dimen name="secondary_rounded_corner_radius_bottom_adjustment">0px</dimen>-->
-    <!--    <dimen name="config_dialogCornerRadius">8dp</dimen>-->
-    <!--    <bool name="config_enableHapticTextHandle">true</bool>-->
-    <!--    <bool name="config_buttonTextAllCaps">false</bool>-->
     <!--    <dimen name="status_bar_camera_bottom_margin">0px</dimen>-->
     <!--    <dimen name="status_bar_camera_side_padding">0px</dimen>-->
     <!--    <dimen name="status_bar_camera_top_margin">0px</dimen>-->
     <!--    <dimen name="status_bar_indicator_corner_padding">70.0px</dimen>-->
     <!--    <dimen name="physical_power_button_center_screen_location_y">1100.0px</dimen>-->
+    <!--    Common Override-->
+    <!--    <dimen name="config_dialogCornerRadius">8dp</dimen>-->
 
     <!--    Signature-->
     <!--    <string name="config_mainBuiltInDisplayCutout">M 0,0 H -10 V 152 H 10 V 0 H 0 Z</string>-->
     <!--    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,0 H -10 V 152 H 10 V 0 H 0 Z</string>-->
+    <!--    <bool name="config_fillMainBuiltInDisplayCutout">false</bool>-->
     <!--    <dimen name="status_bar_height">152px</dimen>-->
     <!--    <dimen name="status_bar_height_default">152px</dimen>-->
     <!--    <dimen name="status_bar_height_portrait">152px</dimen>-->
@@ -60,4 +62,22 @@
     <!--    <dimen name="rounded_corner_radius">106px</dimen>-->
     <!--    <dimen name="rounded_corner_radius_top">106px</dimen>-->
     <!--    <dimen name="rounded_corner_radius_bottom">106px</dimen>-->
+
+    <!--    OnePlus 15-->
+    <!--    <string name="config_mainBuiltInDisplayCutout" translatable="false">-->
+    <!--        M 0,83-->
+    <!--        M -41,83-->
+    <!--        A 41,41 0 1,0 41,83-->
+    <!--        A 41,41 0 1,0 -41,83-->
+    <!--        Z-->
+    <!--    </string>-->
+    <!--    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,0 H -10 V 166 H 10 V 0 H 0 Z</string>-->
+    <!--    <bool name="config_fillMainBuiltInDisplayCutout">true</bool>-->
+    <!--    <dimen name="status_bar_height">166px</dimen>-->
+    <!--    <dimen name="status_bar_height_default">166px</dimen>-->
+    <!--    <dimen name="status_bar_height_portrait">166px</dimen>-->
+    <!--    <dimen name="status_bar_height_landscape">166px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius">172px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_top">172px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_bottom">172px</dimen>-->
 </resources>

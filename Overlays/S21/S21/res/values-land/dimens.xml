@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="status_bar_height">110px</dimen>
-    <dimen name="status_bar_height_default">110px</dimen>
-    <dimen name="status_bar_height_portrait">110px</dimen>
-    <dimen name="status_bar_height_landscape">110px</dimen>
+    <!--    S25-->
+    <!--    <dimen name="status_bar_height">110px</dimen>-->
+    <!--    <dimen name="status_bar_height_default">110px</dimen>-->
+    <!--    <dimen name="status_bar_height_portrait">110px</dimen>-->
+    <!--    <dimen name="status_bar_height_landscape">110px</dimen>-->
 
     <!--    Fold 6-->
     <!--    <dimen name="status_bar_height">110px</dimen>-->
@@ -16,4 +17,10 @@
     <!--    <dimen name="status_bar_height_default">152px</dimen>-->
     <!--    <dimen name="status_bar_height_portrait">152px</dimen>-->
     <!--    <dimen name="status_bar_height_landscape">152px</dimen>-->
+
+    <!--    OnePlus 15-->
+    <!--    <dimen name="status_bar_height">166px</dimen>-->
+    <!--    <dimen name="status_bar_height_default">166px</dimen>-->
+    <!--    <dimen name="status_bar_height_portrait">166px</dimen>-->
+    <!--    <dimen name="status_bar_height_landscape">166px</dimen>-->
 </resources>
