@@ -12,6 +12,12 @@
     <!--    <dimen name="status_bar_height_portrait">110px</dimen>-->
     <!--    <dimen name="status_bar_height_landscape">110px</dimen>-->
 
+    <!--    S23 Ultra-->
+    <!--    <dimen name="status_bar_height">120px</dimen>-->
+    <!--    <dimen name="status_bar_height_default">120px</dimen>-->
+    <!--    <dimen name="status_bar_height_portrait">120px</dimen>-->
+    <!--    <dimen name="status_bar_height_landscape">120px</dimen>-->
+
     <!--    Signature-->
     <!--    <dimen name="status_bar_height">152px</dimen>-->
     <!--    <dimen name="status_bar_height_default">152px</dimen>-->

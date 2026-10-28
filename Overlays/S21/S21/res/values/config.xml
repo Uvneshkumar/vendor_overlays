@@ -10,6 +10,13 @@
     <bool name="config_enableHapticTextHandle">true</bool>
     <bool name="config_buttonTextAllCaps">false</bool>
 
+    <!--    Samsung One UI Common-->
+    <!--    <color name="navbar_light_theme_color">#00000000</color>-->
+    <!--    <dimen name="status_bar_camera_side_padding">0mm</dimen>-->
+    <!--    <dimen name="status_bar_camera_top_margin">0mm</dimen>-->
+    <!--    <dimen name="status_bar_camera_bottom_margin">0mm</dimen>-->
+    <!--    <dimen name="status_bar_indicator_corner_padding">100.0px</dimen>-->
+
     <!--    S25-->
     <!--    <string name="config_mainBuiltInDisplayCutout">M 0,0 H -10 V 110 H 10 V 0 H 0 Z</string>-->
     <!--    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,0 H -10 V 110 H 10 V 0 H 0 Z</string>-->
@@ -21,9 +28,6 @@
     <!--    <dimen name="rounded_corner_radius">100px</dimen>-->
     <!--    <dimen name="rounded_corner_radius_top">100px</dimen>-->
     <!--    <dimen name="rounded_corner_radius_bottom">100px</dimen>-->
-    <!--    <dimen name="status_bar_camera_side_padding">0mm</dimen>-->
-    <!--    <dimen name="status_bar_camera_top_margin">0mm</dimen>-->
-    <!--    <dimen name="status_bar_indicator_corner_padding">100.0px</dimen>-->
 
     <!--    Fold 6-->
     <!--    <string name="config_mainBuiltInDisplayCutout" />-->
@@ -43,11 +47,23 @@
     <!--    <dimen name="secondary_rounded_corner_radius">12px</dimen>-->
     <!--    <dimen name="secondary_rounded_corner_radius_top">12px</dimen>-->
     <!--    <dimen name="secondary_rounded_corner_radius_bottom">12px</dimen>-->
-    <!--    <dimen name="status_bar_camera_bottom_margin">0px</dimen>-->
-    <!--    <dimen name="status_bar_camera_side_padding">0px</dimen>-->
-    <!--    <dimen name="status_bar_camera_top_margin">0px</dimen>-->
-    <!--    <dimen name="status_bar_indicator_corner_padding">70.0px</dimen>-->
     <!--    <dimen name="physical_power_button_center_screen_location_y">1100.0px</dimen>-->
+    <!--    Common Override-->
+    <!--    <dimen name="config_dialogCornerRadius">8dp</dimen>-->
+    <!--    Samsung One UI Common Override-->
+    <!--    <dimen name="status_bar_indicator_corner_padding">70.0px</dimen>-->
+
+    <!--    S23 Ultra-->
+    <!--    <string name="config_mainBuiltInDisplayCutout">M 0,0 H -10 V 120 H 10 V 0 H 0 Z</string>-->
+    <!--    <string name="config_mainBuiltInDisplayCutoutRectApproximation">M 0,0 H -10 V 120 H 10 V 0 H 0 Z</string>-->
+    <!--    <bool name="config_fillMainBuiltInDisplayCutout">false</bool>-->
+    <!--    <dimen name="status_bar_height">120px</dimen>-->
+    <!--    <dimen name="status_bar_height_default">120px</dimen>-->
+    <!--    <dimen name="status_bar_height_portrait">120px</dimen>-->
+    <!--    <dimen name="status_bar_height_landscape">120px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius">12px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_top">12px</dimen>-->
+    <!--    <dimen name="rounded_corner_radius_bottom">12px</dimen>-->
     <!--    Common Override-->
     <!--    <dimen name="config_dialogCornerRadius">8dp</dimen>-->
 
