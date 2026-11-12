@@ -136,6 +136,16 @@
     <!--    <dimen name="status_bar_padding_start">8dp</dimen>-->
     <!--    <dimen name="status_bar_padding_end">3dp</dimen>-->
 
+    <!--    Xperia 5 IV Android 14 Stock ROM-->
+    <!--    <dimen name="physical_power_button_center_screen_location_y">1200px</dimen>-->
+    <!--    <dimen name="physical_fingerprint_sensor_center_screen_location_y">1200px</dimen>-->
+    <!--    <dimen name="qs_header_row_min_height">100px</dimen>-->
+    <!--    <dimen name="keyguard_indication_margin_bottom">40dp</dimen>-->
+    <!--    <dimen name="status_bar_padding_start">14dp</dimen>-->
+    <!--    <dimen name="status_bar_padding_end">16dp</dimen>-->
+    <!--    <dimen name="ongoing_appops_dot_min_padding">20dp</dimen>-->
+    <!--    <dimen name="rounded_corner_content_padding">20dp</dimen>-->
+
     <!--    Lemonade-->
     <!--    <dimen name="qs_header_row_min_height">138px</dimen>-->
     <!--    <dimen name="physical_power_button_center_screen_location_y">864px</dimen>-->
