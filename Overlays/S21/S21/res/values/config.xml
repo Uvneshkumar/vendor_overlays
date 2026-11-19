@@ -64,8 +64,6 @@
     <!--    <dimen name="rounded_corner_radius">12px</dimen>-->
     <!--    <dimen name="rounded_corner_radius_top">12px</dimen>-->
     <!--    <dimen name="rounded_corner_radius_bottom">12px</dimen>-->
-    <!--    Common Override-->
-    <!--    <dimen name="config_dialogCornerRadius">8dp</dimen>-->
 
     <!--    Signature-->
     <!--    <string name="config_mainBuiltInDisplayCutout">M 0,0 H -10 V 152 H 10 V 0 H 0 Z</string>-->
